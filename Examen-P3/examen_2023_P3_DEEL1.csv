@@ -1,0 +1,975 @@
+"klantNummer"	"bedrag"	"saldo"	"kwaliteitEten"	"aanwezig"	"teamNummer"	"totaal_bedrag"	"temperatuur"	"meting3"	"inkomen"
+32858	1536.76	123.34	"heel lekker"	"Nee"	5	8731.82	"aangenaam warm"	670.0	2625.4
+32103	1536.76	332.45	"heel lekker"	"Ja"	3	8619.01	"aangenaam warm"	745.0	2625.21
+32698	1536.86	454.95	"zeer slecht"	"Nee"	3	8762.06	"aangenaam warm"	1109.0	2625.22
+32554	1536.75	476.03	"neutraal"	"Ja"	3	8708.54	"aangenaam warm"	2510.0	2625.22
+32974	1536.76	670.12	"slecht"	"Ja"	3	8618.96	"warm"	4001.0	2625.21
+32361	1536.75	-108.84	"zeer slecht"	"Ja"	1	8618.94	"aangenaam warm"	1537.0	2625.21
+32402	1536.75	1131.42	"lekker"	"Ja"	1	8618.97	"heet"	1305.0	2625.22
+32198	1536.76	718.71	"heel lekker"	"Ja"	1	8619.34	"aangenaam warm"	681.0	2625.21
+32125	1536.76	570.22	"zeer slecht"	"Ja"	4	8619.07	"aangenaam warm"	1937.0	2625.21
+32850	1536.75	746.82	"heel lekker"	"Ja"	1	8622.91	"warm"	1689.0	2746.58
+32457	1536.82	929.31	"lekker"	"Ja"	1	8619.46	"heet"	-1138.0	2625.21
+32674	1547.17	178.82	"neutraal"	"Nee"	3	8688.04	"aangenaam warm"	3096.0	2625.21
+32653	1536.75	451.29	"neutraal"	"Nee"	4	8618.95	"aangenaam warm"	1835.0	2625.21
+32603	1536.8	610.2	"heel lekker"	"Ja"	1	8619.42	"lage temperatuur"	1380.0	2625.21
+32024	1537.09	807.49	"slecht"	"Nee"	2	8618.97	"warm"	2768.0	2625.25
+32795	1536.76	915.64	"lekker"	"Nee"	4	8618.94	"lage temperatuur"	600.0	2625.21
+32251	1536.75	750.47	"neutraal"	"Ja"	4	8618.94	"warm"	1150.0	2625.21
+32128	1536.83	588.25	"heel lekker"	"Ja"	3	8619.01	"aangenaam warm"	955.0	2625.21
+32572	1536.75	343.85	"heel lekker"	"Nee"	3	8619.63	"aangenaam warm"	1764.0	2625.21
+32072	1536.8	545.07	"neutraal"	"Nee"	1	8620.2	"warm"	530.0	2625.21
+32776	1536.75	268.37	"lekker"	"Ja"	1	8618.94	"aangenaam warm"	969.0	2625.21
+32214	1536.75	878.06	"lekker"	"Ja"	4	8627.41	"aangenaam warm"	908.0	2625.21
+32222	1536.79	-108.63	"neutraal"	"Nee"	1	8633.88	"lage temperatuur"	3638.0	2625.21
+32871	"ontbrekend"	423.08	"neutraal"	"Ja"	1	8622.1	"lage temperatuur"	-333.0	2627.25
+32331	1536.77	297.18	"slecht"	"Ja"	3	8619.14	"lage temperatuur"	292.0	2625.23
+32150	1536.75	889.42	"lekker"	"Ja"	1	8624.23	"aangenaam warm"	-531.0	2625.22
+32904	1536.75	95.33	"neutraal"	"Nee"	3	8685.36	"lage temperatuur"	2865.0	2625.21
+32004	1536.75	186.44	"neutraal"	"Ja"	1	8619.0	"aangenaam warm"	4653.0	2625.21
+32861	1536.81	230.95	"slecht"	"Nee"	3	8619.84	"warm"	872.0	2625.21
+32147	"ontbrekend"	55.69	"heel lekker"	"Ja"	1	8618.98	"aangenaam warm"	2534.0	2625.21
+32132	1536.75	787.97	"heel lekker"	"Ja"	2	8669.57	"vrieskou"	668.0	2625.21
+32259	1536.78	588.99	"heel lekker"	"Ja"	1	8618.94	"warm"	-125.0	2625.21
+32181	1536.75	477.81	"lekker"	"Nee"	5	8618.94	"lage temperatuur"	93.0	2625.22
+32672	1536.75	226.19	"lekker"	"Ja"	3	8621.19	"aangenaam warm"	-285.0	2625.21
+32029	1536.77	243.18	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	1837.0	2625.22
+32018	1536.75	261.67	"heel lekker"	"Ja"	1	8618.96	"aangenaam warm"	3596.0	2625.21
+32797	1536.75	404.82	"heel lekker"	"Ja"	4	8618.97	"vrieskou"	1047.0	2625.22
+32245	1536.76	456.93	"lekker"	"Ja"	4	8626.31	"aangenaam warm"	2892.0	2625.21
+32328	1545.62	445.45	"heel lekker"	"Ja"	2	8619.08	"lage temperatuur"	740.0	2625.21
+32181	1536.75	356.73	"neutraal"	"Ja"	1	8619.0	"aangenaam warm"	1012.0	2625.21
+32056	1536.76	10.32	"lekker"	"Ja"	3	8624.15	"aangenaam warm"	1732.0	2625.21
+32753	1536.78	586.77	"slecht"	"Ja"	5	8618.94	"aangenaam warm"	3938.0	2625.37
+32535	1536.82	567.97	"lekker"	"Nee"	5	8621.62	"warm"	1277.0	2625.21
+32756	1537.23	1384.83	"heel lekker"	"ontbrekend"	1	8618.97	"vrieskou"	4369.0	2625.21
+32480	1537.49	485.81	"lekker"	"Ja"	4	8620.36	"lage temperatuur"	-547.0	2625.21
+32788	1536.77	1113.4	"heel lekker"	"Ja"	3	8619.62	"aangenaam warm"	2553.0	2625.22
+32522	1536.75	760.24	"neutraal"	"Ja"	4	8797.22	"vrieskou"	4675.0	2625.25
+32113	1536.76	-19.51	"heel lekker"	"Ja"	4	8622.36	"warm"	1525.0	2625.24
+32513	1536.75	570.84	"heel lekker"	"Ja"	1	8641.67	"aangenaam warm"	1976.0	2625.24
+32945	1536.75	118.29	"heel lekker"	"Nee"	4	8672.96	"warm"	-135.0	2625.21
+32046	1536.77	718.8	"lekker"	"Ja"	2	8618.94	"lage temperatuur"	-309.0	2625.21
+32792	1536.75	490.36	"heel lekker"	"Ja"	4	8618.94	"heet"	1331.0	2625.21
+32869	1536.75	804.03	"lekker"	"Ja"	2	9085.99	"vrieskou"	3142.0	2625.22
+32531	1536.76	130.27	"slecht"	"Ja"	3	8618.94	"aangenaam warm"	394.0	2625.22
+32461	1536.75	203.82	"neutraal"	"Nee"	3	8618.99	"lage temperatuur"	-475.0	2625.21
+32961	1536.75	541.18	"neutraal"	"Ja"	2	8625.57	"aangenaam warm"	3703.0	2625.21
+32064	1536.78	-34.04	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	716.0	"onbekend"
+32483	1537.4	858.5	"heel lekker"	"Nee"	1	8619.73	"aangenaam warm"	4995.0	2625.21
+32404	1536.78	207.77	"heel lekker"	"Ja"	1	8619.0	"aangenaam warm"	484.0	2625.21
+32699	1536.75	641.8	"slecht"	"Ja"	5	8619.13	"warm"	-364.0	2625.21
+32495	1536.75	887.64	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	1969.0	2630.56
+32913	1651.4	287.24	"neutraal"	"Ja"	3	8619.1	"aangenaam warm"	3184.0	2625.31
+32077	1536.94	988.6	"neutraal"	"Ja"	1	8618.94	"aangenaam warm"	2880.0	2625.21
+32084	1555.9	838.63	"lekker"	"Nee"	1	8618.97	"heet"	3787.0	2625.21
+32615	1539.93	358.17	"lekker"	"Ja"	3	8618.94	"vrieskou"	-1043.0	2625.21
+32070	1536.76	117.75	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	2466.0	2625.21
+32282	1536.75	501.65	"neutraal"	"Ja"	1	8619.01	"aangenaam warm"	3816.0	2625.24
+32644	1536.75	-52.74	"heel lekker"	"Ja"	4	8620.33	"aangenaam warm"	7958.0	"ontbrekend"
+32557	1536.76	616.19	"heel lekker"	"Ja"	3	8619.01	"vrieskou"	70.0	2625.21
+32329	1537.19	160.9	"lekker"	"Nee"	1	8619.0	"aangenaam warm"	1975.0	2626.4
+32993	1536.79	300.39	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	-505.0	2625.21
+32540	1536.78	990.53	"heel lekker"	"Nee"	1	8619.28	"lage temperatuur"	2700.0	2625.21
+32456	1536.98	771.92	"neutraal"	"Ja"	3	8619.19	"lage temperatuur"	4719.0	2625.21
+32612	1536.76	74.77	"heel lekker"	"Ja"	4	8618.94	"aangenaam warm"	-500.0	2625.34
+32103	1536.76	572.72	"zeer slecht"	"Ja"	5	8619.94	"lage temperatuur"	1484.0	2625.21
+32714	1536.76	172.02	"heel lekker"	"Ja"	4	8619.04	"aangenaam warm"	5619.0	2625.22
+32855	1536.86	619.73	"heel lekker"	"Ja"	4	8618.99	"aangenaam warm"	504.0	2625.21
+32664	1536.75	930.38	"slecht"	"Ja"	3	8626.83	"aangenaam warm"	1225.0	2625.21
+32780	1538.01	96.89	"heel lekker"	"Ja"	3	8618.94	"aangenaam warm"	1931.0	2625.21
+32732	1536.75	826.4	"lekker"	"Ja"	1	8619.98	"lage temperatuur"	1232.0	2625.21
+32221	1536.75	308.19	"neutraal"	"Ja"	3	8692.06	"warm"	2199.0	2625.23
+32455	1536.78	495.95	"lekker"	"Ja"	2	8618.94	"aangenaam warm"	1981.0	2625.3
+32236	1536.82	630.17	"neutraal"	"Ja"	4	8619.15	"heet"	1928.0	2625.35
+32340	1536.77	-101.43	"heel lekker"	"Ja"	4	8619.04	"aangenaam warm"	1423.0	2625.21
+32456	1536.75	771.54	"lekker"	"Nee"	3	8619.59	"aangenaam warm"	2435.0	2625.21
+32421	1536.75	607.29	"heel lekker"	"Ja"	3	8618.94	"heet"	1844.0	2625.21
+32099	1536.8	463.93	"lekker"	"Ja"	4	8710.75	"heet"	804.0	2625.4
+32433	1536.75	1141.9	"lekker"	"Ja"	4	8618.99	"lage temperatuur"	2420.0	2625.28
+32676	1536.75	509.48	"lekker"	"Ja"	4	8618.98	"aangenaam warm"	48.0	2625.21
+32376	1553.12	749.67	"neutraal"	"Ja"	1	8619.33	"aangenaam warm"	4.0	2625.21
+"ontbrekend"	1536.78	184.89	"lekker"	"Ja"	1	8618.94	"aangenaam warm"	4203.0	2625.21
+32923	1536.75	142.21	"lekker"	"Ja"	3	8618.98	"heet"	-100.0	2625.21
+32071	1536.76	945.98	"slecht"	"Ja"	2	8618.96	"aangenaam warm"	-235.0	2625.21
+32837	1536.76	479.62	"heel lekker"	"Ja"	5	8618.96	"lage temperatuur"	3790.0	2625.21
+32098	1536.75	338.13	"lekker"	"Ja"	2	8619.27	"aangenaam warm"	1151.0	2625.21
+32101	1536.82	140.57	"heel lekker"	"Ja"	5	8619.18	"aangenaam warm"	1330.0	2625.21
+32750	1536.84	-196.85	"heel lekker"	"Nee"	3	8619.05	"aangenaam warm"	426.0	2625.21
+32819	1536.75	501.27	"lekker"	"Ja"	1	8620.02	"aangenaam warm"	1096.0	2625.34
+32565	1538.9	431.98	"lekker"	"Ja"	4	8623.28	"lage temperatuur"	1619.0	2625.21
+32593	1539.1	927.86	"lekker"	"Ja"	4	8651.23	"aangenaam warm"	1223.0	2625.21
+32569	1536.76	921.43	"neutraal"	"Ja"	3	8619.02	"warm"	1866.0	2625.21
+32332	1536.75	519.01	"slecht"	"Ja"	1	8619.08	"heet"	2022.0	2625.22
+32125	1536.83	399.13	"neutraal"	"Ja"	1	8619.37	"vrieskou"	1610.0	2625.21
+32355	1536.76	488.68	"heel lekker"	"Ja"	4	8628.83	"vrieskou"	322.0	2625.21
+32676	1536.75	665.99	"lekker"	"Nee"	4	8641.02	"aangenaam warm"	1753.0	2625.22
+32761	1536.9	638.29	"lekker"	"Ja"	2	8618.94	"lage temperatuur"	4014.0	2625.21
+32870	1536.77	433.46	"neutraal"	"Ja"	3	8634.71	"warm"	3626.0	2625.34
+32732	1536.75	245.11	"neutraal"	"Ja"	1	8631.59	"warm"	2837.0	2625.21
+32964	1536.76	273.44	"lekker"	"Ja"	4	8626.55	"heet"	3437.0	2625.21
+32607	1537.16	221.83	"heel lekker"	"Ja"	2	8623.52	"aangenaam warm"	1090.0	2625.21
+32353	1536.75	625.55	"lekker"	"Ja"	4	8619.88	"aangenaam warm"	2881.0	2625.21
+32584	1536.76	388.48	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	2079.0	2625.21
+32220	1536.92	966.75	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	-1690.0	2625.21
+32669	1536.75	283.11	"neutraal"	"Ja"	2	8620.71	"vrieskou"	473.0	2625.21
+32230	1536.75	699.05	"heel lekker"	"Ja"	4	8618.94	"lage temperatuur"	3890.0	2625.21
+32112	1536.75	171.02	"heel lekker"	"Ja"	4	8621.96	"lage temperatuur"	1428.0	2626.68
+32849	1536.89	979.29	"lekker"	"Ja"	3	8620.02	"warm"	-3833.0	2625.86
+32369	1536.76	352.38	"lekker"	"Nee"	4	8618.95	"aangenaam warm"	4562.0	2625.21
+32773	1536.76	-274.01	"neutraal"	"Ja"	3	8619.31	"aangenaam warm"	959.0	2625.21
+32580	1536.75	355.11	"heel lekker"	"Ja"	3	8626.8	"aangenaam warm"	3235.0	2625.22
+32814	1536.75	804.7	"neutraal"	"Nee"	3	8619.88	"vrieskou"	3274.0	2625.21
+32849	1536.76	403.75	"heel lekker"	"Nee"	2	8619.04	"aangenaam warm"	3946.0	2625.21
+32972	6343.77	334.17	"lekker"	"Ja"	2	8619.24	"aangenaam warm"	3348.0	2625.21
+32824	1536.95	163.28	"heel lekker"	"Ja"	2	8623.14	"warm"	3135.0	2625.22
+32621	1536.75	240.17	"lekker"	"Nee"	4	8755.9	"aangenaam warm"	4263.0	2625.21
+32654	1536.75	882.13	"lekker"	"Ja"	4	8631.29	"vrieskou"	2272.0	2625.21
+32029	1536.76	1134.97	"slecht"	"Nee"	4	8796.11	"lage temperatuur"	1628.0	2625.23
+32930	1536.76	512.02	"zeer slecht"	"Ja"	4	8618.94	"aangenaam warm"	-320.0	2625.21
+32834	1536.75	585.74	"heel lekker"	"Ja"	4	8619.1	"aangenaam warm"	2181.0	2625.22
+32273	1536.75	210.27	"heel lekker"	"Nee"	3	8618.96	"aangenaam warm"	2644.0	2625.21
+32188	1536.75	420.03	"lekker"	"Ja"	4	9910.67	"heet"	4800.0	2625.22
+32715	1536.76	528.47	"heel lekker"	"Ja"	1	8618.96	"warm"	5191.0	2625.21
+32315	1536.75	314.9	"lekker"	"Nee"	2	8619.26	"aangenaam warm"	3162.0	2625.21
+32342	1536.76	244.66	"heel lekker"	"Nee"	3	8618.94	"aangenaam warm"	2591.0	2625.22
+32006	1536.94	580.93	"neutraal"	"Ja"	2	8618.96	"aangenaam warm"	4110.0	2625.21
+32872	1536.76	316.17	"heel lekker"	"Ja"	3	8622.93	"warm"	434.0	2626.03
+32573	1536.85	659.49	"zeer slecht"	"Ja"	4	8619.14	"aangenaam warm"	1487.0	2625.21
+32404	1536.75	599.9	"lekker"	"Ja"	4	8619.6	"aangenaam warm"	104.0	2625.21
+32144	1536.75	594.56	"lekker"	"Ja"	1	8618.94	"warm"	-97.0	2625.21
+32644	1536.75	315.07	"lekker"	"Nee"	5	8618.94	"aangenaam warm"	2822.0	2625.22
+32033	1536.78	268.76	"lekker"	"Nee"	1	8620.49	"warm"	646.0	2625.21
+32756	1549.2	656.16	"lekker"	"Nee"	1	8618.94	"warm"	3689.0	2625.21
+32221	1537.84	938.09	"lekker"	"Ja"	1	8619.04	"lage temperatuur"	3991.0	"onbekend"
+32426	1536.94	59.41	"lekker"	"Ja"	5	8619.55	"warm"	5080.0	2625.21
+32344	1537.59	693.88	"zeer slecht"	"Nee"	3	8618.94	"aangenaam warm"	2667.0	2625.21
+32372	1536.78	303.05	"lekker"	"Ja"	1	8619.79	"aangenaam warm"	2667.0	2625.21
+32734	1536.75	486.09	"zeer slecht"	"Nee"	2	8619.07	"lage temperatuur"	3257.0	2625.21
+32786	1536.76	335.04	"ontbrekend"	"Ja"	1	8926.2	"aangenaam warm"	268.0	2625.21
+32574	1536.95	179.18	"neutraal"	"Nee"	1	8619.15	"warm"	1388.0	2625.21
+32090	1536.75	936.43	"heel lekker"	"Ja"	3	8618.97	"warm"	-1971.0	2625.21
+32057	1536.86	-102.94	"zeer slecht"	"Nee"	5	8619.06	"aangenaam warm"	2806.0	2625.21
+32163	1538.47	702.37	"heel lekker"	"Nee"	3	"ontbrekend"	"heet"	2461.0	2625.22
+32627	1536.84	1002.6	"lekker"	"Ja"	3	8619.25	"lage temperatuur"	528.0	2625.25
+32689	1536.77	288.51	"heel lekker"	"Ja"	4	8618.94	"vrieskou"	1319.0	2625.33
+32279	1537.04	1047.38	"heel lekker"	"Ja"	3	8715.28	"heet"	-1223.0	2625.21
+32674	1553.14	752.87	"slecht"	"Ja"	5	8618.94	"aangenaam warm"	1033.0	2625.22
+32489	1536.75	467.73	"slecht"	"Ja"	4	8618.95	"warm"	941.0	2625.29
+32446	1536.76	523.67	"slecht"	"ontbrekend"	3	8661.09	"aangenaam warm"	4182.0	2625.21
+32280	1537.41	322.68	"neutraal"	"Nee"	3	8618.99	"aangenaam warm"	1098.0	2625.21
+32765	1536.76	640.23	"lekker"	"Ja"	1	8619.63	"aangenaam warm"	3483.0	2625.21
+32117	1536.75	410.51	"heel lekker"	"Ja"	4	8624.61	"warm"	4932.0	2625.47
+32437	1537.3	312.18	"neutraal"	"Ja"	4	8619.2	"warm"	-232.0	2626.92
+32291	1536.75	439.61	"lekker"	"Ja"	2	9693.75	"warm"	1999.0	2625.21
+32693	1536.76	482.74	"lekker"	"Ja"	1	8618.96	"aangenaam warm"	3208.0	10844.9
+32489	1536.85	848.07	"lekker"	"Ja"	3	8619.63	"vrieskou"	28.0	2625.21
+32678	1536.84	1010.29	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	2797.0	2626.99
+32049	1536.8	505.08	"heel lekker"	"Ja"	2	8619.01	"aangenaam warm"	2234.0	2625.21
+32398	1539.9	213.63	"neutraal"	"Nee"	1	"ontbrekend"	"lage temperatuur"	3165.0	2625.22
+32605	1537.05	589.13	"lekker"	"Nee"	1	8618.99	"aangenaam warm"	2745.0	2625.21
+32008	1539.37	671.17	"heel lekker"	"Ja"	2	8618.97	"heet"	1938.0	2625.21
+32308	1537.71	1010.45	"lekker"	"Ja"	1	8618.94	"lage temperatuur"	4022.0	2625.21
+32217	1536.94	544.83	"heel lekker"	"Ja"	1	8619.02	"aangenaam warm"	1360.0	2625.27
+32139	1538.61	118.91	"heel lekker"	"Ja"	5	8632.35	"lage temperatuur"	805.0	2625.21
+32262	1536.84	743.95	"slecht"	"Ja"	4	8618.94	"warm"	3812.0	2625.21
+32330	1536.75	970.77	"lekker"	"Ja"	2	8652.55	"warm"	-326.0	2625.21
+32008	1538.69	692.3	"lekker"	"Ja"	3	8618.94	"heet"	-3719.0	2625.21
+32757	1536.77	238.52	"slecht"	"Ja"	3	8618.98	"aangenaam warm"	2888.0	2625.24
+32182	1536.76	529.1	"zeer slecht"	"Ja"	3	8635.4	"vrieskou"	4086.0	2625.23
+32382	1536.75	933.4	"neutraal"	"Ja"	4	8618.94	"aangenaam warm"	-1441.0	2625.21
+32717	1536.85	618.39	"lekker"	"Ja"	1	8619.72	"aangenaam warm"	"ontbrekend"	2625.21
+32509	1537.76	559.75	"lekker"	"Ja"	1	8618.94	"lage temperatuur"	865.0	2625.21
+32839	1536.76	623.41	"heel lekker"	"Ja"	2	8618.94	"heet"	1981.0	2625.22
+32813	1536.81	920.88	"lekker"	"Ja"	4	8622.09	"warm"	-1789.0	2625.21
+32076	1536.75	-343.98	"heel lekker"	"Ja"	5	8619.05	"onbekend"	2114.0	2625.47
+32863	1536.89	34.81	"slecht"	"Nee"	2	8618.98	"warm"	5545.0	2625.21
+32044	1536.75	294.05	"lekker"	"Ja"	5	8619.09	"lage temperatuur"	1028.0	2625.21
+32021	1536.76	976.67	"zeer slecht"	"Ja"	2	8620.24	"warm"	-807.0	2625.21
+32922	1536.75	246.25	"neutraal"	"Ja"	3	8619.14	"warm"	3322.0	2625.24
+32864	1536.75	559.32	"heel lekker"	"Nee"	1	32739.73	"heet"	-2086.0	2625.21
+32581	1536.77	428.18	"heel lekker"	"Nee"	5	8620.1	"aangenaam warm"	2418.0	2625.21
+32579	1536.76	276.72	"lekker"	"Ja"	3	8618.96	"lage temperatuur"	2266.0	2625.21
+32723	1536.75	22.65	"zeer slecht"	"Nee"	2	8618.94	"warm"	-1486.0	2625.21
+32423	1537.12	654.33	"slecht"	"Ja"	3	8630.97	"aangenaam warm"	2126.0	2625.33
+32118	1536.83	1072.85	"heel lekker"	"Ja"	1	8773.52	"warm"	1173.0	2625.21
+32024	1536.8	634.48	"heel lekker"	"Ja"	1	8618.96	"aangenaam warm"	1028.0	2625.21
+32328	1537.43	112.45	"lekker"	"Ja"	2	8619.25	"vrieskou"	4019.0	2625.21
+32808	1536.83	1285.38	"zeer slecht"	"Ja"	5	8618.94	"heet"	521.0	2625.21
+32627	1536.75	261.84	"heel lekker"	"Nee"	4	8619.12	"aangenaam warm"	951.0	2625.22
+32838	1536.76	608.76	"neutraal"	"Ja"	5	8621.74	"aangenaam warm"	-624.0	2625.22
+32921	1536.75	232.07	"heel lekker"	"Nee"	5	8618.94	"ontbrekend"	3118.0	2625.22
+32093	1536.83	89.32	"lekker"	"Ja"	4	8618.98	"aangenaam warm"	-1215.0	2625.21
+32848	1536.92	-270.96	"heel lekker"	"Nee"	3	8618.94	"vrieskou"	166.0	2625.21
+32251	1536.75	662.39	"heel lekker"	"Ja"	4	8619.48	"aangenaam warm"	144.0	2625.42
+32595	1536.75	637.68	"lekker"	"Ja"	5	8622.51	"aangenaam warm"	568.0	2634.45
+32534	1536.75	"ontbrekend"	"slecht"	"Ja"	3	8641.19	"aangenaam warm"	1181.0	2625.21
+32398	1536.75	852.35	"neutraal"	"Ja"	4	8622.75	"aangenaam warm"	2491.0	2625.21
+32317	1536.85	560.19	"neutraal"	"Ja"	4	8620.15	"aangenaam warm"	2057.0	2625.59
+32341	1537.22	359.97	"heel lekker"	"Nee"	5	8618.98	"warm"	2507.0	2625.94
+32335	1536.76	707.98	"lekker"	"Ja"	3	8618.96	"aangenaam warm"	-854.0	2625.21
+32174	1537.0	832.53	"heel lekker"	"Ja"	3	8619.13	"lage temperatuur"	2541.0	2625.23
+32520	1536.8	696.64	"neutraal"	"Nee"	3	8619.05	"lage temperatuur"	218.0	2625.21
+32117	1536.75	957.73	"heel lekker"	"Nee"	1	8619.0	"aangenaam warm"	3219.0	2625.21
+32519	1536.76	-55.69	"slecht"	"Ja"	1	8619.33	"aangenaam warm"	2968.0	2625.21
+32909	1536.75	276.74	"heel lekker"	"Ja"	1	8618.94	"lage temperatuur"	1340.0	2625.26
+32351	1536.86	377.19	"heel lekker"	"Ja"	3	8619.61	"lage temperatuur"	4867.0	2625.21
+32740	1536.75	736.32	"lekker"	"Ja"	5	8618.95	"lage temperatuur"	3451.0	2625.21
+32825	1536.92	-84.8	"heel lekker"	"Ja"	4	8622.92	"vrieskou"	645.0	2625.21
+32822	1536.75	33.79	"slecht"	"Nee"	2	8619.23	"aangenaam warm"	2146.0	2625.21
+32243	1539.03	881.77	"lekker"	"Nee"	2	8619.28	"aangenaam warm"	-286.0	2625.21
+32150	1536.75	115.81	"heel lekker"	"Ja"	5	8627.07	"lage temperatuur"	-31.0	2625.23
+32204	1536.76	519.99	"neutraal"	"Ja"	3	8627.41	"ontbrekend"	1722.0	2625.23
+32609	1536.77	728.2	"heel lekker"	"Nee"	1	8619.31	"aangenaam warm"	2762.0	2625.21
+32770	1536.88	1280.56	"heel lekker"	"Nee"	4	8618.96	"lage temperatuur"	3925.0	2625.7
+32668	1536.76	194.77	"lekker"	"Ja"	2	8618.94	"warm"	4603.0	2625.23
+32184	1536.75	617.53	"heel lekker"	"Ja"	1	8619.04	"lage temperatuur"	4842.0	2625.48
+32783	1536.75	682.61	"zeer slecht"	"Nee"	4	8618.94	"lage temperatuur"	666.0	2625.23
+32500	1536.76	340.13	"neutraal"	"Ja"	4	8619.13	"vrieskou"	871.0	2625.22
+32765	1537.22	652.65	"heel lekker"	"Ja"	1	8620.51	"aangenaam warm"	2506.0	2625.21
+32770	1536.75	136.93	"lekker"	"Nee"	5	8618.94	"aangenaam warm"	2063.0	2625.21
+"onbekend"	1537.14	729.02	"lekker"	"Ja"	3	8618.95	"aangenaam warm"	2363.0	2625.21
+32924	1536.78	-2.48	"heel lekker"	"Ja"	2	8622.17	"lage temperatuur"	-829.0	2625.21
+32571	1536.76	904.59	"lekker"	"Ja"	5	8619.07	"aangenaam warm"	3119.0	2625.26
+32646	1536.87	651.6	"lekker"	"Ja"	2	8623.2	"aangenaam warm"	236.0	2627.55
+32635	1536.75	746.02	"lekker"	"Ja"	5	8619.11	"lage temperatuur"	4642.0	2625.4
+32866	1536.78	742.41	"slecht"	"Ja"	4	8621.05	"vrieskou"	869.0	2625.21
+32639	1536.75	567.6	"lekker"	"Ja"	5	8618.94	"aangenaam warm"	571.0	2625.21
+32153	1536.75	243.76	"heel lekker"	"Nee"	3	8618.95	"lage temperatuur"	3998.0	2625.21
+32072	1536.76	1192.66	"heel lekker"	"Ja"	1	8618.94	"aangenaam warm"	3310.0	2625.21
+32446	1536.75	69.34	"slecht"	"Ja"	4	8620.01	"aangenaam warm"	2726.0	2625.23
+32309	1536.76	488.52	"neutraal"	"Ja"	5	8823.65	"warm"	3443.0	2625.62
+32282	1536.94	-48.51	"heel lekker"	"Nee"	1	8618.96	"aangenaam warm"	2671.0	2625.21
+32060	1536.91	575.35	"lekker"	"Ja"	1	8618.95	"aangenaam warm"	-1034.0	2625.21
+32516	1539.28	838.52	"heel lekker"	"Ja"	2	8618.94	"aangenaam warm"	-488.0	2625.21
+32317	1536.75	-60.95	"neutraal"	"Ja"	3	8619.88	"warm"	255.0	2625.21
+32455	1536.79	944.28	"slecht"	"Ja"	1	8619.27	"warm"	1755.0	2625.21
+32061	1536.75	233.9	"zeer slecht"	"Ja"	1	8618.94	"aangenaam warm"	-524.0	2625.21
+32837	1536.77	708.03	"neutraal"	"Ja"	5	8619.63	"aangenaam warm"	449.0	2625.38
+32081	1536.75	1112.59	"lekker"	"Nee"	4	8618.94	"heet"	884.0	2625.21
+32866	1536.75	676.9	"neutraal"	"Nee"	4	8618.98	"warm"	3779.0	2625.21
+32858	1536.75	204.77	"slecht"	"Ja"	3	8620.42	"aangenaam warm"	504.0	2625.21
+32624	1536.77	982.22	"neutraal"	"Ja"	4	8618.94	"lage temperatuur"	3416.0	2625.22
+32515	1536.75	286.79	"lekker"	"Ja"	3	8618.99	"warm"	-319.0	2625.21
+32467	1536.84	-45.45	"lekker"	"Ja"	1	8618.95	"heet"	-618.0	2625.21
+32563	1536.76	880.44	"lekker"	"Ja"	3	8618.99	"aangenaam warm"	1522.0	2625.21
+32799	1536.75	468.34	"zeer slecht"	"Ja"	3	8618.98	"aangenaam warm"	317.0	2625.21
+32900	1536.75	845.02	"lekker"	"Ja"	3	8655.52	"aangenaam warm"	2447.0	2625.21
+32452	1536.76	657.85	"slecht"	"Ja"	5	8618.94	"warm"	4884.0	2625.28
+32817	1536.97	584.22	"lekker"	"Nee"	5	8618.96	"aangenaam warm"	469.0	2625.24
+32664	1536.75	963.23	"neutraal"	"Ja"	5	8618.94	"lage temperatuur"	1901.0	2625.21
+32326	1557.46	424.23	"lekker"	"Ja"	3	8619.24	"lage temperatuur"	2015.0	2625.21
+32479	1536.91	245.49	"neutraal"	"Ja"	5	8618.94	"warm"	522.0	2625.21
+32153	1538.67	239.95	"lekker"	"Ja"	5	8619.05	"aangenaam warm"	159.0	2625.23
+32065	1536.85	707.87	"slecht"	"Nee"	2	8618.94	"heet"	885.0	2625.21
+32108	1536.75	473.74	"heel lekker"	"Ja"	2	8636.84	"aangenaam warm"	2858.0	2625.26
+32903	1536.75	494.11	"heel lekker"	"Nee"	3	8618.94	"aangenaam warm"	1316.0	2625.21
+32346	1536.77	1126.26	"heel lekker"	"Ja"	1	9379.78	"aangenaam warm"	-720.0	2625.21
+32726	1536.75	232.57	"lekker"	"Ja"	4	8621.15	"warm"	4590.0	2625.21
+32514	1539.51	101.48	"neutraal"	"Ja"	3	8620.87	"warm"	124.0	2625.21
+32180	1536.92	-131.95	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	1953.0	2625.8
+32255	1536.75	27.41	"slecht"	"Ja"	3	8618.97	"vrieskou"	1654.0	2625.21
+32443	1537.44	41.84	"neutraal"	"Ja"	3	8618.94	"aangenaam warm"	3963.0	2625.21
+32444	1537.22	1200.88	"lekker"	"Ja"	4	8618.95	"aangenaam warm"	2095.0	2625.21
+32532	1536.76	522.97	"slecht"	"Nee"	1	8618.94	"aangenaam warm"	237.0	2625.21
+32164	1536.77	252.86	"lekker"	"Ja"	5	8618.94	"lage temperatuur"	-380.0	2625.21
+32374	1536.78	1044.91	"lekker"	"Ja"	4	8620.98	"warm"	2884.0	2625.21
+32291	1536.76	803.25	"lekker"	"Ja"	3	10150.44	"aangenaam warm"	-162.0	2625.21
+32411	1536.76	493.55	"slecht"	"Ja"	4	8618.94	"lage temperatuur"	565.0	2625.21
+32340	1536.9	252.63	"neutraal"	"Nee"	1	8634.67	"lage temperatuur"	3480.0	2625.3
+32604	1536.78	672.26	"neutraal"	"Ja"	1	8619.38	"warm"	-441.0	2625.22
+32797	1536.75	674.32	"lekker"	"Ja"	3	8619.68	"warm"	2931.0	2625.21
+32660	1536.84	402.68	"lekker"	"Ja"	2	8624.79	"aangenaam warm"	3261.0	2625.21
+32071	1536.94	597.5	"neutraal"	"Ja"	3	8635.02	"aangenaam warm"	3238.0	2625.95
+32099	1536.75	500.75	"slecht"	"Ja"	2	8631.59	"warm"	2172.0	2625.21
+32693	1536.75	864.88	"neutraal"	"Ja"	3	8619.31	"aangenaam warm"	2356.0	2625.21
+32292	1536.75	-285.36	"heel lekker"	"Nee"	2	8625.0	"aangenaam warm"	-263.0	2626.03
+32735	1536.77	99.41	"neutraal"	"Ja"	3	8618.99	"aangenaam warm"	1846.0	2625.21
+32669	1536.78	20.28	"lekker"	"Nee"	3	8618.94	"aangenaam warm"	4412.0	2625.21
+32910	1536.91	195.58	"heel lekker"	"Ja"	3	8622.32	"aangenaam warm"	830.0	2625.21
+32875	1536.78	271.39	"neutraal"	"Ja"	3	8619.09	"heet"	-1462.0	2625.25
+32335	1539.5	633.92	"neutraal"	"Nee"	1	8622.06	"aangenaam warm"	1857.0	2625.22
+32589	1536.75	296.44	"heel lekker"	"Ja"	4	8618.97	"aangenaam warm"	2916.0	2625.21
+32143	1536.75	109.99	"heel lekker"	"Ja"	"ontbrekend"	8619.03	"warm"	992.0	2626.13
+32351	1536.76	473.09	"heel lekker"	"Ja"	4	8618.94	"aangenaam warm"	2812.0	2625.21
+32963	1537.01	741.8	"slecht"	"Nee"	2	8619.37	"warm"	2129.0	2625.25
+32711	1536.86	378.92	"neutraal"	"Nee"	1	8618.96	"aangenaam warm"	2809.0	2625.47
+32394	1538.2	73.41	"heel lekker"	"Nee"	1	8618.97	"warm"	-2181.0	2625.22
+32602	1536.75	594.52	"neutraal"	"Ja"	3	8619.44	"aangenaam warm"	"ontbrekend"	2625.59
+32938	1536.75	582.28	"neutraal"	"Ja"	2	8619.47	"lage temperatuur"	1640.0	2625.22
+32316	1536.75	647.86	"heel lekker"	"Ja"	1	8789.66	"aangenaam warm"	3146.0	2625.22
+32379	1536.75	279.31	"heel lekker"	"Ja"	2	8618.94	"vrieskou"	3265.0	2625.42
+32798	1536.76	783.53	"neutraal"	"Ja"	2	8618.94	"heet"	1531.0	2625.21
+32820	1536.75	323.14	"lekker"	"Nee"	3	8618.94	"aangenaam warm"	720.0	2625.21
+32683	1536.85	1000.39	"lekker"	"Ja"	3	8659.12	"aangenaam warm"	-1106.0	2625.21
+32834	1536.88	956.31	"lekker"	"Ja"	1	8618.96	"aangenaam warm"	-1486.0	2625.21
+32750	1537.04	131.59	"neutraal"	"Ja"	5	8618.94	"aangenaam warm"	3323.0	2625.24
+32698	1537.54	1131.04	"lekker"	"Ja"	1	8619.02	"aangenaam warm"	-1045.0	2625.22
+32535	1536.81	239.05	"heel lekker"	"Ja"	4	8620.81	"warm"	-1499.0	2625.21
+32658	1536.76	556.07	"lekker"	"Ja"	1	8626.2	"lage temperatuur"	1070.0	2625.21
+32429	1536.75	1138.2	"slecht"	"Ja"	3	8619.02	"heet"	1079.0	2625.21
+32364	1536.76	646.46	"lekker"	"Ja"	5	8618.94	"vrieskou"	5400.0	2625.21
+32365	1536.77	819.35	"lekker"	"Ja"	4	8619.16	"lage temperatuur"	4059.0	2625.21
+32187	1536.75	814.28	"lekker"	"Ja"	3	8618.94	"warm"	413.0	2625.21
+32220	1536.75	871.53	"lekker"	"Ja"	4	8622.39	"warm"	-1113.0	2625.33
+32948	1546.6	651.24	"lekker"	"Nee"	4	8618.99	"aangenaam warm"	3272.0	2625.21
+32489	1536.76	523.67	"heel lekker"	"Ja"	2	8620.48	"aangenaam warm"	-798.0	2625.21
+"ontbrekend"	1540.4	446.26	"lekker"	"Ja"	3	8635.82	"onbekend"	3921.0	2625.21
+32140	1536.79	275.79	"heel lekker"	"Nee"	3	8619.26	"vrieskou"	1825.0	2625.21
+32081	1536.93	818.42	"lekker"	"Nee"	3	8618.98	"warm"	3032.0	2625.21
+32848	1536.94	740.76	"neutraal"	"Nee"	4	8661.2	"warm"	3151.0	2625.27
+32105	1536.75	918.4	"lekker"	"Ja"	1	8618.97	"heet"	2033.0	2625.22
+32781	1537.15	387.63	"heel lekker"	"Ja"	4	8620.61	"aangenaam warm"	1458.0	2625.21
+32841	1536.76	-38.82	"heel lekker"	"Ja"	3	8621.36	"vrieskou"	1156.0	2625.21
+32887	1536.76	155.42	"lekker"	"Ja"	3	8618.95	"lage temperatuur"	4685.0	2625.21
+32038	1536.75	550.71	"lekker"	"Nee"	3	8618.94	"lage temperatuur"	1945.0	2625.21
+32338	1536.76	363.27	"lekker"	"Ja"	2	8618.99	"aangenaam warm"	-45.0	2625.27
+32777	1536.8	805.16	"neutraal"	"Ja"	3	8618.94	"aangenaam warm"	1332.0	2625.21
+32133	1536.89	455.75	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	-1395.0	2625.21
+32379	1536.75	894.02	"heel lekker"	"Ja"	5	8620.93	"onbekend"	2974.0	2625.21
+32169	1537.01	1139.46	"heel lekker"	"Ja"	2	8618.97	"aangenaam warm"	3258.0	2626.03
+32836	1536.75	976.39	"slecht"	"Ja"	1	8618.94	"aangenaam warm"	3014.0	2625.21
+32781	1536.75	142.08	"heel lekker"	"Ja"	1	8618.94	"aangenaam warm"	2765.0	2627.28
+32816	1536.75	293.78	"lekker"	"Ja"	5	8618.94	"heet"	4358.0	2625.21
+32172	1536.79	-401.7	"lekker"	"Ja"	5	8619.04	"aangenaam warm"	-762.0	2625.21
+32443	1536.76	195.89	"lekker"	"Ja"	1	8618.94	"heet"	3624.0	2625.21
+32414	1537.94	304.97	"heel lekker"	"Ja"	3	8700.9	"aangenaam warm"	2049.0	2625.21
+32691	1536.88	1213.91	"lekker"	"Ja"	4	8620.34	"heet"	3037.0	2625.25
+32245	1536.77	231.61	"lekker"	"Nee"	1	8618.94	"aangenaam warm"	-262.0	2625.21
+32448	1544.01	408.47	"heel lekker"	"Ja"	4	8620.09	"vrieskou"	2396.0	2625.21
+32292	1536.76	116.06	"lekker"	"Nee"	2	8619.53	"vrieskou"	3128.0	2625.21
+32760	1538.1	1086.84	"heel lekker"	"Ja"	4	8618.94	"heet"	1241.0	2625.22
+32451	1536.76	1180.03	"lekker"	"Nee"	3	8618.97	"aangenaam warm"	2253.0	2625.3
+32544	1536.75	256.17	"lekker"	"Ja"	4	8620.98	"lage temperatuur"	1879.0	2625.21
+32316	1536.91	936.34	"slecht"	"Nee"	5	8619.07	"lage temperatuur"	1661.0	2625.21
+32816	1536.76	343.13	"heel lekker"	"Ja"	3	8618.97	"aangenaam warm"	848.0	2625.21
+32475	1536.76	70.78	"lekker"	"Nee"	2	8765.79	"aangenaam warm"	1034.0	2625.22
+32841	1537.67	532.49	"lekker"	"Ja"	3	9769.44	"vrieskou"	4107.0	2631.64
+32370	"ontbrekend"	429.29	"lekker"	"Ja"	1	8619.06	"warm"	2783.0	2625.22
+32946	1536.75	468.58	"zeer slecht"	"Ja"	1	8618.94	"warm"	3380.0	2625.21
+32981	1536.76	757.14	"heel lekker"	"Nee"	4	8618.99	"aangenaam warm"	1662.0	2625.22
+32466	1607.8	673.27	"lekker"	"Ja"	2	8619.07	"warm"	2346.0	2625.22
+32289	1536.75	562.9	"lekker"	"Ja"	3	8620.26	"warm"	2901.0	2625.21
+32384	1536.78	705.81	"heel lekker"	"Ja"	3	8619.1	"lage temperatuur"	353.0	2625.21
+32537	1536.75	899.67	"heel lekker"	"Ja"	4	8618.94	"warm"	2664.0	2625.33
+32962	1536.78	832.52	"lekker"	"Nee"	1	8618.94	"aangenaam warm"	1914.0	2625.21
+32823	1536.78	767.48	"zeer slecht"	"Ja"	1	9747.51	"aangenaam warm"	-40.0	2625.21
+32808	1536.77	780.97	"neutraal"	"Ja"	2	8629.95	"aangenaam warm"	595.0	2625.21
+32141	1536.77	508.81	"lekker"	"Ja"	2	8621.16	"aangenaam warm"	466.0	2625.21
+32258	1536.89	656.36	"lekker"	"Ja"	2	8618.95	"aangenaam warm"	151.0	2625.27
+32653	1541.21	-356.3	"lekker"	"Ja"	2	8619.15	"aangenaam warm"	2399.0	2625.21
+32877	1536.76	1477.78	"lekker"	"Ja"	4	8618.95	"aangenaam warm"	-1552.0	2625.21
+32563	1537.01	457.5	"lekker"	"Ja"	2	8619.09	"lage temperatuur"	1651.0	2625.21
+32107	1537.01	411.59	"lekker"	"Ja"	3	8618.98	"aangenaam warm"	4928.0	2625.21
+32849	1536.75	-194.32	"heel lekker"	"Ja"	5	8618.96	"heet"	1099.0	2625.28
+32854	1549.83	619.89	"lekker"	"Ja"	3	8632.74	"warm"	-179.0	2625.21
+32292	1536.8	488.55	"lekker"	"Ja"	3	8618.94	"lage temperatuur"	861.0	2625.22
+32774	"ontbrekend"	917.52	"neutraal"	"Ja"	5	8620.7	"heet"	1845.0	2625.21
+32280	1536.75	617.47	"zeer slecht"	"Ja"	3	8618.96	"aangenaam warm"	3293.0	2625.21
+32909	1536.77	356.44	"slecht"	"Ja"	1	8619.0	"lage temperatuur"	2093.0	2625.21
+32150	1536.76	904.88	"lekker"	"Ja"	1	8619.03	"vrieskou"	708.0	2630.06
+32443	1536.84	422.88	"heel lekker"	"Ja"	4	8619.42	"vrieskou"	-2210.0	2625.21
+32946	1536.97	931.51	"slecht"	"Ja"	4	8618.98	"warm"	3130.0	2625.21
+32227	1537.73	699.63	"heel lekker"	"Ja"	5	8618.95	"aangenaam warm"	1902.0	2625.23
+32454	1536.9	550.91	"slecht"	"Ja"	4	8619.1	"aangenaam warm"	498.0	2625.21
+32351	1536.76	486.48	"neutraal"	"Nee"	1	8619.01	"heet"	1795.0	2625.23
+32030	1536.87	-51.58	"lekker"	"Ja"	1	8618.96	"vrieskou"	-666.0	2625.21
+32057	1536.75	405.81	"neutraal"	"Ja"	1	8619.02	"aangenaam warm"	5253.0	2625.21
+32512	1536.77	-151.95	"lekker"	"Ja"	1	8619.01	"aangenaam warm"	123.0	2625.21
+32243	1536.77	395.78	"lekker"	"Ja"	5	8618.96	"aangenaam warm"	639.0	2625.21
+32993	1536.75	391.23	"lekker"	"Ja"	3	8630.28	"warm"	4217.0	2625.33
+32377	1536.76	479.53	"lekker"	"Ja"	1	8618.95	"aangenaam warm"	1299.0	2625.21
+32031	1548.84	1024.18	"neutraal"	"Nee"	3	8618.94	"aangenaam warm"	1146.0	2625.22
+32932	1536.76	380.25	"neutraal"	"Ja"	4	8619.32	"lage temperatuur"	1902.0	2625.3
+32844	1536.87	1153.97	"heel lekker"	"Ja"	1	8620.51	"aangenaam warm"	372.0	2625.21
+32662	1536.75	538.9	"slecht"	"Ja"	2	8618.94	"aangenaam warm"	2646.0	2625.24
+32798	1536.76	352.59	"heel lekker"	"Ja"	1	8618.95	"aangenaam warm"	1604.0	2625.21
+32140	1538.12	531.61	"lekker"	"Ja"	4	8620.31	"aangenaam warm"	1834.0	2625.21
+32294	1536.77	723.12	"lekker"	"Ja"	5	8619.4	"lage temperatuur"	2213.0	2625.21
+32835	1536.76	360.52	"neutraal"	"Ja"	2	8618.99	"aangenaam warm"	2995.0	2626.27
+32708	1536.78	840.09	"heel lekker"	"Ja"	2	8619.5	"aangenaam warm"	1603.0	2625.21
+32141	1538.72	667.03	"neutraal"	"Ja"	2	8619.01	"warm"	-434.0	2625.21
+32719	1536.86	270.63	"neutraal"	"Ja"	3	8619.47	"lage temperatuur"	3497.0	2625.22
+32451	1536.78	39.35	"neutraal"	"Nee"	1	8620.95	"aangenaam warm"	1019.0	2625.22
+32006	1537.3	678.51	"lekker"	"Ja"	4	8619.49	"aangenaam warm"	-1253.0	2625.21
+32083	1536.75	1423.85	"heel lekker"	"Ja"	1	8618.96	"aangenaam warm"	929.0	2625.21
+32263	1536.76	621.37	"neutraal"	"Ja"	4	8626.94	"aangenaam warm"	-263.0	2625.22
+32840	1537.24	-569.05	"lekker"	"Ja"	"onbekend"	8618.94	"heet"	1043.0	2625.21
+32558	1537.03	135.29	"neutraal"	"Ja"	2	8619.24	"aangenaam warm"	2403.0	2625.26
+32740	1536.75	136.78	"lekker"	"Nee"	3	8619.61	"warm"	3063.0	2625.21
+32537	1536.75	631.45	"lekker"	"Nee"	5	8618.97	"lage temperatuur"	3644.0	2625.22
+32115	1536.76	611.73	"zeer slecht"	"Ja"	3	9135.45	"aangenaam warm"	231.0	2625.21
+32295	1536.75	934.7	"lekker"	"Nee"	2	8618.94	"aangenaam warm"	-286.0	2625.21
+32308	1536.75	-78.05	"neutraal"	"Ja"	3	8618.94	"lage temperatuur"	3137.0	2625.23
+32052	1536.99	1023.76	"lekker"	"Ja"	5	8618.94	"warm"	2582.0	2625.21
+32426	1536.78	412.57	"lekker"	"Nee"	4	8618.94	"heet"	183.0	2625.21
+32800	1536.78	949.55	"heel lekker"	"Nee"	1	8619.89	"heet"	1698.0	2625.21
+32459	1536.84	653.88	"neutraal"	"Ja"	3	8618.95	"warm"	4042.0	2625.21
+32115	1537.99	662.89	"heel lekker"	"Ja"	3	8619.92	"aangenaam warm"	2128.0	2625.21
+32909	1536.76	484.65	"heel lekker"	"Ja"	3	8618.94	"vrieskou"	5857.0	2625.21
+32603	1536.75	410.78	"slecht"	"Ja"	3	8620.78	"warm"	1179.0	2630.67
+32019	1536.78	441.7	"slecht"	"Ja"	3	8618.94	"vrieskou"	3471.0	2625.21
+32524	1536.76	913.81	"heel lekker"	"Ja"	3	8618.94	"aangenaam warm"	1371.0	2625.21
+32250	1551.22	856.78	"neutraal"	"Ja"	2	8618.95	"warm"	2920.0	2625.4
+32146	1536.75	1158.56	"neutraal"	"Ja"	2	8621.4	"heet"	337.0	2625.21
+32437	1536.76	150.01	"lekker"	"Ja"	3	8837.66	"vrieskou"	2659.0	2625.21
+32624	1537.56	44.93	"neutraal"	"Ja"	4	8627.28	"aangenaam warm"	4001.0	2625.45
+32248	1536.76	954.91	"heel lekker"	"Nee"	3	8619.05	"warm"	4151.0	2625.21
+32421	1536.75	553.58	"lekker"	"Ja"	3	8642.02	"aangenaam warm"	4367.0	2625.21
+32676	1536.77	121.32	"lekker"	"Ja"	2	8619.51	"vrieskou"	517.0	2625.21
+32091	1538.17	780.66	"lekker"	"Ja"	2	8618.94	"aangenaam warm"	283.0	2625.22
+32972	1536.79	1096.57	"lekker"	"Nee"	1	8619.12	"warm"	2418.0	2625.23
+32072	1536.76	1508.23	"lekker"	"Ja"	4	8626.74	"aangenaam warm"	-263.0	2625.28
+32535	1536.75	82.68	"neutraal"	"Ja"	4	8618.94	"aangenaam warm"	2567.0	2625.21
+32516	1537.31	637.38	"heel lekker"	"Ja"	2	8619.34	"aangenaam warm"	731.0	2625.21
+32986	1537.32	503.02	"lekker"	"Ja"	3	8618.96	"warm"	3038.0	2625.23
+32563	1536.75	213.34	"heel lekker"	"Ja"	1	8640.43	"aangenaam warm"	2500.0	2625.21
+32392	1536.77	756.53	"heel lekker"	"Ja"	5	8618.94	"heet"	3662.0	2625.21
+32475	1536.8	744.87	"neutraal"	"Ja"	5	8619.5	"warm"	446.0	2625.27
+32646	1536.75	1106.49	"lekker"	"Ja"	3	8619.8	"lage temperatuur"	893.0	2625.21
+32977	1536.79	1068.0	"slecht"	"Ja"	1	8618.94	"vrieskou"	2437.0	2625.21
+32261	1536.76	693.19	"slecht"	"Ja"	3	8618.97	"heet"	1415.0	2625.23
+32019	1544.17	39.26	"slecht"	"Ja"	2	8619.29	"warm"	3643.0	2625.21
+32796	1537.3	937.93	"neutraal"	"Ja"	2	8619.14	"warm"	-2254.0	2625.21
+32347	1537.07	470.86	"neutraal"	"Ja"	1	8618.95	"aangenaam warm"	4862.0	2625.22
+32745	1537.84	277.42	"lekker"	"Ja"	3	8623.91	"vrieskou"	3800.0	2625.21
+32640	1536.76	914.55	"lekker"	"Ja"	3	8619.06	"aangenaam warm"	3573.0	2625.21
+32782	1536.79	420.79	"lekker"	"Ja"	3	8638.77	"lage temperatuur"	-881.0	2625.23
+32746	1536.75	927.36	"slecht"	"Ja"	3	8619.07	"vrieskou"	-250.0	2625.21
+32334	1539.33	983.23	"lekker"	"Nee"	1	8620.42	"heet"	555.0	2625.21
+32048	1536.78	-275.25	"neutraal"	"Ja"	4	8619.47	"warm"	6.0	2625.21
+32555	1537.01	137.51	"lekker"	"Ja"	3	8618.95	"aangenaam warm"	1807.0	2625.69
+32820	1536.75	217.87	"lekker"	"Ja"	3	8618.94	"lage temperatuur"	6373.0	2625.21
+32182	1536.76	250.38	"lekker"	"Ja"	2	8618.96	"vrieskou"	-1583.0	2625.69
+32789	1539.2	1185.43	"heel lekker"	"Ja"	3	8625.18	"aangenaam warm"	1812.0	2625.22
+32469	1536.76	82.06	"lekker"	"Ja"	2	8619.09	"warm"	1565.0	2625.21
+32707	1536.75	618.9	"lekker"	"Ja"	4	8627.15	"lage temperatuur"	651.0	2625.22
+32643	1536.76	-75.44	"slecht"	"Ja"	5	8619.8	"lage temperatuur"	2528.0	2625.23
+32819	1536.75	283.46	"neutraal"	"Ja"	4	8618.97	"lage temperatuur"	93.0	2625.21
+32065	1536.76	716.05	"lekker"	"Ja"	4	8618.94	"warm"	4546.0	2625.21
+32786	1536.75	767.16	"slecht"	"Ja"	2	8625.92	"vrieskou"	402.0	2625.22
+32461	1536.77	805.86	"lekker"	"Ja"	4	8619.05	"lage temperatuur"	4118.0	2625.33
+32301	1537.15	843.07	"zeer slecht"	"Ja"	4	8618.95	"lage temperatuur"	2720.0	2625.21
+32047	1536.84	442.68	"slecht"	"Ja"	3	8618.95	"aangenaam warm"	1795.0	2625.21
+32207	1536.79	487.75	"heel lekker"	"Ja"	4	8618.95	"lage temperatuur"	915.0	2625.28
+32043	1536.84	11.6	"heel lekker"	"Nee"	1	8619.44	"aangenaam warm"	-1050.0	2625.33
+32935	1537.07	879.85	"lekker"	"Ja"	2	8619.11	"warm"	-1311.0	2625.21
+32524	1536.75	403.32	"lekker"	"Ja"	3	8622.72	"lage temperatuur"	345.0	2625.21
+32986	1536.76	1103.82	"lekker"	"Ja"	3	8618.94	"warm"	2351.0	2625.21
+32553	1536.76	766.59	"lekker"	"Nee"	2	8618.97	"aangenaam warm"	2914.0	2625.21
+32261	1536.78	58.16	"heel lekker"	"Nee"	3	8810.08	"warm"	-791.0	2625.22
+32764	1536.75	72.32	"lekker"	"Ja"	1	8618.96	"warm"	3063.0	2625.21
+32199	1536.76	258.02	"slecht"	"Ja"	1	8618.97	"aangenaam warm"	871.0	2625.29
+32359	1536.99	797.59	"zeer slecht"	"Ja"	1	8622.71	"vrieskou"	-814.0	2625.24
+32790	1538.01	868.15	"heel lekker"	"Ja"	3	8619.04	"lage temperatuur"	369.0	2625.21
+32868	1537.38	228.23	"neutraal"	"Ja"	1	8619.13	"heet"	2823.0	2625.21
+32334	1538.31	303.07	"neutraal"	"Ja"	1	8618.95	"lage temperatuur"	4665.0	2625.33
+32127	1536.75	691.31	"lekker"	"Ja"	2	8619.3	"aangenaam warm"	1149.0	2625.21
+32370	1536.75	785.99	"neutraal"	"Ja"	4	8618.95	"heet"	2314.0	2625.22
+32893	1536.79	145.45	"lekker"	"Nee"	4	8627.98	"warm"	418.0	2625.22
+32754	1536.75	542.71	"heel lekker"	"Ja"	2	8618.98	"lage temperatuur"	2866.0	2625.21
+32899	1536.77	588.83	"heel lekker"	"Ja"	1	8618.94	"aangenaam warm"	3933.0	2625.21
+32389	1536.75	660.13	"lekker"	"Ja"	3	8625.56	"aangenaam warm"	1200.0	2625.21
+32970	1536.86	473.49	"slecht"	"Ja"	2	8618.94	"lage temperatuur"	-11.0	2625.23
+32503	1536.82	160.85	"slecht"	"Ja"	2	8618.94	"warm"	-206.0	2625.26
+32505	1536.75	424.39	"heel lekker"	"Ja"	4	8618.94	"aangenaam warm"	-2693.0	2625.23
+32925	1536.75	-254.17	"heel lekker"	"Nee"	5	8618.94	"aangenaam warm"	1248.0	2625.22
+32526	1539.36	497.67	"lekker"	"Ja"	3	8619.03	"warm"	981.0	2625.21
+32808	1538.52	1177.17	"heel lekker"	"Ja"	4	8619.02	"lage temperatuur"	2689.0	2625.26
+32740	1536.75	485.02	"zeer slecht"	"Ja"	2	8890.86	"lage temperatuur"	529.0	2625.21
+32083	1538.93	530.78	"heel lekker"	"Ja"	4	8618.94	"aangenaam warm"	-516.0	2625.22
+32609	1536.79	56.88	"lekker"	"Ja"	5	8619.0	"aangenaam warm"	290.0	2625.21
+32828	1536.76	410.12	"heel lekker"	"Nee"	1	8618.94	"warm"	2592.0	2625.21
+32554	1536.77	473.68	"slecht"	"Ja"	4	8619.24	"warm"	629.0	2625.21
+32326	1536.77	461.5	"heel lekker"	"Ja"	1	8618.99	"aangenaam warm"	5742.0	2625.21
+32083	1536.89	-67.79	"heel lekker"	"Ja"	3	8627.58	"aangenaam warm"	5848.0	2625.21
+32672	1536.75	268.59	"neutraal"	"Ja"	1	8619.53	"warm"	2503.0	2625.21
+32314	1536.91	678.52	"heel lekker"	"Ja"	4	8620.14	"aangenaam warm"	-1286.0	2625.22
+32609	1537.17	216.43	"lekker"	"Nee"	4	8618.94	"lage temperatuur"	"ontbrekend"	2625.21
+32433	1536.76	572.21	"neutraal"	"Ja"	4	8618.94	"warm"	-1094.0	2625.21
+32701	1537.54	603.32	"heel lekker"	"Nee"	1	8619.79	"vrieskou"	4296.0	2625.21
+32353	1536.75	640.29	"lekker"	"Ja"	4	8873.42	"heet"	109.0	2625.21
+32044	1543.36	795.46	"heel lekker"	"Ja"	2	8618.96	"aangenaam warm"	360.0	2625.21
+32872	1536.76	1196.13	"heel lekker"	"Nee"	4	8619.37	"aangenaam warm"	1960.0	2625.21
+32354	1536.76	761.76	"neutraal"	"Ja"	3	8628.83	"heet"	3672.0	2625.21
+32997	1537.9	41.08	"heel lekker"	"Ja"	4	8692.23	"aangenaam warm"	-307.0	2625.21
+32282	1537.17	503.92	"lekker"	"Nee"	1	8619.72	"vrieskou"	1209.0	2625.31
+32977	1536.76	300.32	"lekker"	"Ja"	3	8620.98	"heet"	762.0	2625.22
+32948	1539.42	161.94	"heel lekker"	"Ja"	4	13998.92	"aangenaam warm"	1478.0	2628.36
+32079	1536.75	837.35	"lekker"	"Ja"	3	8618.95	"heet"	3035.0	2625.21
+32648	1536.77	785.42	"neutraal"	"Ja"	5	8622.62	"aangenaam warm"	-1380.0	2625.23
+32365	1536.76	739.51	"slecht"	"Ja"	3	8618.95	"heet"	-671.0	2625.21
+32808	1536.84	797.12	"neutraal"	"Ja"	4	8619.12	"warm"	-290.0	2625.24
+32693	1536.81	1193.46	"neutraal"	"Nee"	2	8619.02	"aangenaam warm"	1046.0	2625.21
+32951	1536.75	634.26	"slecht"	"Ja"	2	8619.04	"lage temperatuur"	551.0	2625.21
+32145	1536.76	424.02	"lekker"	"Ja"	3	8619.23	"vrieskou"	2379.0	2625.21
+32614	"ontbrekend"	142.52	"neutraal"	"Ja"	1	8619.03	"aangenaam warm"	4531.0	2625.21
+32790	1536.78	1037.38	"lekker"	"Nee"	5	8619.04	"aangenaam warm"	"ontbrekend"	2625.38
+32036	1536.77	545.75	"neutraal"	"Ja"	3	8618.94	"warm"	2516.0	2625.22
+32071	1536.78	664.87	"heel lekker"	"Ja"	2	8619.08	"warm"	109.0	2625.21
+32788	1536.77	701.82	"neutraal"	"Ja"	3	8619.02	"warm"	2871.0	2625.27
+32369	1554.17	1393.6	"neutraal"	"Ja"	1	8619.13	"aangenaam warm"	3508.0	2625.21
+32385	1537.6	831.53	"heel lekker"	"Ja"	5	8618.94	"lage temperatuur"	1652.0	2625.72
+32573	1536.76	146.25	"heel lekker"	"Ja"	5	8618.94	"aangenaam warm"	1604.0	2625.21
+32612	1536.78	977.17	"lekker"	"Nee"	2	8624.79	"aangenaam warm"	3911.0	2625.21
+32693	1537.27	1072.29	"slecht"	"Nee"	1	8638.92	"lage temperatuur"	5809.0	2625.21
+32948	1536.77	216.21	"heel lekker"	"Ja"	3	8618.99	"aangenaam warm"	4621.0	2625.21
+32373	1536.76	502.96	"heel lekker"	"Nee"	2	8618.97	"aangenaam warm"	2740.0	2625.21
+32774	1537.06	552.89	"heel lekker"	"Ja"	1	8618.94	"warm"	692.0	2625.22
+32580	1536.96	269.99	"heel lekker"	"Ja"	2	8618.94	"vrieskou"	2647.0	2625.21
+32539	1536.79	314.67	"heel lekker"	"Ja"	1	8618.96	"vrieskou"	4456.0	2625.21
+32402	1537.26	311.97	"slecht"	"Ja"	4	8624.47	"lage temperatuur"	-886.0	2625.21
+32662	1537.24	71.66	"heel lekker"	"Ja"	1	8626.76	"aangenaam warm"	2768.0	2625.21
+32258	1536.92	246.01	"neutraal"	"Ja"	1	8618.95	"lage temperatuur"	3922.0	2625.21
+32117	1536.76	420.88	"heel lekker"	"Ja"	4	8618.99	"lage temperatuur"	-1312.0	2625.22
+32747	1536.88	229.22	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	514.0	2625.21
+32507	1536.85	703.55	"heel lekker"	"Ja"	3	8618.95	"vrieskou"	444.0	"onbekend"
+32390	1536.75	1133.71	"lekker"	"Ja"	3	8711.99	"vrieskou"	2302.0	2625.22
+32569	1536.96	598.8	"lekker"	"Nee"	1	8618.94	"heet"	-100.0	2625.21
+32268	1536.78	964.45	"lekker"	"Ja"	1	8618.99	"aangenaam warm"	-467.0	2625.23
+32267	1536.76	271.21	"neutraal"	"Ja"	1	8618.98	"warm"	1385.0	2625.22
+32449	1536.93	140.23	"lekker"	"Ja"	3	8625.69	"heet"	3292.0	2625.21
+32994	1538.49	536.27	"lekker"	"Ja"	5	8618.99	"aangenaam warm"	2436.0	2625.21
+32293	1536.79	270.71	"lekker"	"Ja"	5	8632.67	"warm"	-1488.0	2625.21
+32919	1536.77	152.09	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	1650.0	2625.21
+32496	1536.75	237.15	"slecht"	"Ja"	1	8618.95	"warm"	1499.0	2625.21
+32125	1538.89	-135.76	"lekker"	"Ja"	4	8618.94	"lage temperatuur"	2837.0	2625.21
+32855	1536.82	536.35	"neutraal"	"Ja"	4	8618.94	"aangenaam warm"	1507.0	2625.22
+32455	1536.75	982.7	"heel lekker"	"Ja"	4	8619.55	"warm"	-2063.0	2625.29
+32902	1536.76	836.64	"lekker"	"Nee"	1	8618.94	"aangenaam warm"	1086.0	2625.21
+32448	1536.87	762.74	"heel lekker"	"Ja"	2	8619.03	"heet"	526.0	2625.22
+32092	1542.76	8.81	"neutraal"	"Nee"	5	8618.99	"warm"	3224.0	2625.21
+32695	1536.75	583.77	"zeer slecht"	"Ja"	4	8620.27	"aangenaam warm"	1976.0	2625.21
+32849	1536.81	559.9	"heel lekker"	"Ja"	4	8619.04	"lage temperatuur"	1341.0	2625.21
+32324	1536.77	449.3	"heel lekker"	"Ja"	4	8619.0	"aangenaam warm"	21.0	2625.21
+32350	1537.12	305.22	"heel lekker"	"Nee"	3	8619.34	"heet"	4472.0	2625.21
+32069	1536.75	273.88	"lekker"	"Nee"	1	8618.97	"aangenaam warm"	2465.0	2625.21
+32552	1536.75	1068.09	"lekker"	"Nee"	4	8623.42	"heet"	309.0	2625.21
+32895	1536.77	612.57	"lekker"	"Ja"	3	8619.15	"lage temperatuur"	-2197.0	2630.93
+32854	1536.75	324.06	"slecht"	"Ja"	1	8618.94	"aangenaam warm"	895.0	2625.22
+32724	1536.76	662.41	"lekker"	"Ja"	5	8618.98	"heet"	1755.0	2625.21
+32928	1536.76	396.71	"neutraal"	"Nee"	3	8618.94	"warm"	1286.0	2625.22
+32648	1536.76	-105.91	"lekker"	"Ja"	3	8619.01	"aangenaam warm"	-414.0	2625.21
+32800	1538.7	547.99	"neutraal"	"Ja"	2	8618.94	"lage temperatuur"	253.0	2625.21
+32518	1536.75	327.77	"neutraal"	"Ja"	4	8684.66	"vrieskou"	3744.0	2625.21
+32123	1536.77	178.53	"heel lekker"	"Ja"	1	8619.0	"warm"	2446.0	2625.21
+32209	1544.46	96.7	"neutraal"	"Ja"	1	8619.04	"aangenaam warm"	4292.0	2625.67
+32141	1538.91	-129.08	"lekker"	"Ja"	2	8619.21	"aangenaam warm"	1796.0	2625.21
+32797	1536.77	327.06	"lekker"	"Nee"	4	8618.94	"vrieskou"	5660.0	2625.21
+32029	1536.77	209.79	"lekker"	"Ja"	2	8619.04	"heet"	3625.0	2625.21
+32563	1537.51	747.27	"neutraal"	"Nee"	4	8618.94	"lage temperatuur"	316.0	2625.21
+32371	1536.76	684.09	"lekker"	"Ja"	5	8618.96	"aangenaam warm"	1110.0	2625.21
+32810	1536.75	776.86	"zeer slecht"	"Ja"	3	8630.36	"aangenaam warm"	2299.0	2625.21
+32560	1536.82	608.26	"slecht"	"Ja"	1	8619.11	"heet"	-2137.0	2625.23
+32619	1536.76	652.87	"heel lekker"	"Ja"	1	8620.29	"aangenaam warm"	2624.0	2625.21
+32091	1536.76	-75.48	"lekker"	"Ja"	2	8620.41	"lage temperatuur"	2008.0	2625.21
+32316	1536.98	-52.56	"slecht"	"Ja"	2	8618.94	"aangenaam warm"	3796.0	2625.3
+32998	1536.75	709.35	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	2868.0	2625.21
+32731	1536.84	281.32	"lekker"	"Ja"	1	8618.96	"warm"	4295.0	2625.21
+32535	1536.76	743.06	"zeer slecht"	"Ja"	3	8619.25	"lage temperatuur"	3136.0	2625.21
+32780	1539.17	1090.38	"heel lekker"	"Ja"	3	8619.34	"aangenaam warm"	853.0	2625.22
+32829	1536.75	665.51	"neutraal"	"Ja"	1	8618.94	"heet"	3620.0	2625.21
+32077	1536.87	224.34	"lekker"	"Ja"	1	8619.0	"warm"	3412.0	2625.21
+32969	1536.76	802.14	"slecht"	"Ja"	4	8619.88	"lage temperatuur"	-1125.0	2625.21
+32654	1536.75	-10.04	"lekker"	"Ja"	4	8619.65	"vrieskou"	3449.0	2625.21
+32452	1536.75	545.57	"neutraal"	"Ja"	2	8626.45	"aangenaam warm"	38.0	2625.21
+32694	1536.78	177.23	"heel lekker"	"Nee"	4	8618.94	"lage temperatuur"	669.0	2625.21
+32347	1537.0	558.97	"neutraal"	"Ja"	4	8647.24	"aangenaam warm"	-144.0	2625.21
+32881	1536.75	-251.12	"lekker"	"Ja"	3	8631.03	"warm"	2860.0	2625.21
+32790	1536.78	239.68	"neutraal"	"Ja"	3	8618.94	"lage temperatuur"	1549.0	2625.21
+32652	1536.75	728.3	"lekker"	"Ja"	3	8618.94	"aangenaam warm"	4323.0	2625.21
+32190	1536.76	405.21	"heel lekker"	"Ja"	3	8618.95	"heet"	2493.0	2625.21
+32962	1536.76	366.44	"neutraal"	"Ja"	3	8620.3	"aangenaam warm"	982.0	2625.21
+32439	1562.45	647.04	"lekker"	"Ja"	3	8618.94	"lage temperatuur"	3968.0	2625.21
+32913	1536.76	392.38	"neutraal"	"Ja"	2	8618.95	"warm"	5334.0	2625.21
+32060	1536.81	952.32	"lekker"	"Ja"	3	8648.67	"heet"	4871.0	2625.21
+32127	1536.76	-732.47	"neutraal"	"Ja"	1	8619.38	"aangenaam warm"	3632.0	2625.21
+32157	1536.75	294.19	"lekker"	"Ja"	3	8619.46	"aangenaam warm"	3065.0	2625.21
+32171	1536.82	243.89	"heel lekker"	"Ja"	1	8619.23	"heet"	3287.0	2627.37
+32327	1536.75	278.68	"zeer slecht"	"Ja"	4	8872.85	"aangenaam warm"	760.0	2625.22
+32723	1536.75	324.8	"lekker"	"Nee"	1	8618.95	"aangenaam warm"	5313.0	2625.21
+32348	1542.34	784.83	"slecht"	"Nee"	5	8618.94	"warm"	3724.0	2625.21
+32941	1536.75	617.28	"neutraal"	"Ja"	1	8618.94	"warm"	4784.0	2625.21
+32899	1537.18	244.86	"lekker"	"Ja"	3	8619.18	"warm"	4093.0	2625.21
+32849	1539.31	751.64	"zeer slecht"	"Ja"	1	8618.94	"aangenaam warm"	2791.0	2625.41
+32259	1536.75	1216.67	"lekker"	"Ja"	3	8623.71	"vrieskou"	4147.0	2625.21
+32646	1536.75	103.41	"heel lekker"	"Ja"	4	8618.94	"heet"	-3499.0	2625.21
+"onbekend"	1536.76	90.88	"heel lekker"	"Ja"	4	8618.94	"ontbrekend"	1824.0	2625.21
+32128	1536.79	635.18	"lekker"	"Ja"	3	8619.09	"aangenaam warm"	5643.0	2626.76
+32309	1536.76	871.97	"slecht"	"Ja"	4	8634.2	"aangenaam warm"	"onbekend"	2625.21
+32543	1539.04	40.38	"slecht"	"Ja"	2	8619.05	"heet"	658.0	2625.27
+32512	1536.83	417.39	"lekker"	"Ja"	3	8619.15	"aangenaam warm"	-1116.0	2625.21
+32174	1536.76	1162.01	"heel lekker"	"Ja"	3	8623.08	"aangenaam warm"	-323.0	2625.23
+32941	1536.77	393.43	"slecht"	"Nee"	1	8619.23	"aangenaam warm"	3272.0	2625.21
+32158	1536.77	168.97	"neutraal"	"Ja"	5	8619.36	"aangenaam warm"	2678.0	2625.21
+32671	1536.75	968.61	"heel lekker"	"Ja"	1	8618.94	"heet"	2462.0	2625.21
+32732	1537.25	688.39	"slecht"	"Ja"	3	8618.94	"vrieskou"	2413.0	2625.21
+32612	1536.89	261.82	"heel lekker"	"Ja"	5	8619.16	"aangenaam warm"	77.0	2625.21
+32846	1536.77	359.89	"heel lekker"	"Ja"	1	8753.49	"heet"	2609.0	2625.23
+32570	1536.8	441.17	"slecht"	"Ja"	4	8621.22	"vrieskou"	-172.0	2625.21
+32830	1536.75	750.14	"heel lekker"	"Nee"	1	8619.02	"aangenaam warm"	2078.0	2625.21
+32031	1536.75	346.38	"slecht"	"Nee"	3	8618.94	"warm"	-1384.0	2625.21
+32049	1536.75	351.28	"lekker"	"Ja"	5	8619.13	"aangenaam warm"	854.0	2625.27
+32653	1536.81	926.77	"zeer slecht"	"Ja"	3	8619.01	"lage temperatuur"	1174.0	2625.21
+32582	1536.76	581.51	"lekker"	"Ja"	3	8618.94	"vrieskou"	4813.0	2625.32
+32664	1536.75	464.2	"lekker"	"Ja"	4	8618.94	"aangenaam warm"	677.0	2625.22
+32777	1536.83	-22.05	"heel lekker"	"Nee"	4	8618.94	"lage temperatuur"	3564.0	2625.21
+32422	1536.76	-112.74	"lekker"	"Ja"	2	8620.53	"aangenaam warm"	1152.0	2625.21
+32650	1541.45	454.54	"neutraal"	"Ja"	1	8618.96	"warm"	1802.0	2626.9
+32505	1536.77	593.1	"lekker"	"Ja"	1	8619.31	"aangenaam warm"	2722.0	"onbekend"
+32639	1536.76	392.01	"lekker"	"Ja"	2	8623.16	"aangenaam warm"	3365.0	2625.21
+32298	1536.76	1290.62	"heel lekker"	"Nee"	5	8619.74	"vrieskou"	-203.0	2625.21
+32954	1536.76	158.96	"slecht"	"Nee"	5	8618.94	"aangenaam warm"	-1015.0	2625.21
+32486	1536.76	330.31	"slecht"	"Ja"	1	8620.31	"warm"	-47.0	2625.21
+32811	1536.75	458.95	"heel lekker"	"Ja"	4	8619.02	"lage temperatuur"	2127.0	2625.21
+32697	1536.75	795.16	"lekker"	"Nee"	3	9024.67	"lage temperatuur"	1172.0	2625.21
+32304	1536.75	584.78	"lekker"	"Ja"	1	8619.05	"warm"	3015.0	2625.22
+32076	1536.76	624.77	"heel lekker"	"Ja"	3	8618.95	"aangenaam warm"	1450.0	2625.21
+32063	1537.38	-146.19	"neutraal"	"Ja"	2	8718.84	"aangenaam warm"	553.0	2625.21
+32444	1536.99	653.22	"slecht"	"Ja"	3	8618.97	"vrieskou"	1236.0	2625.22
+32487	1536.75	443.26	"neutraal"	"Ja"	1	8619.03	"aangenaam warm"	1550.0	2625.21
+32211	1536.76	681.0	"slecht"	"Ja"	4	8618.95	"aangenaam warm"	820.0	2625.21
+32613	1537.63	300.66	"lekker"	"Nee"	3	8618.94	"aangenaam warm"	-25.0	2625.22
+32319	1536.77	947.96	"lekker"	"Ja"	1	8800.18	"warm"	1858.0	2625.21
+32731	1536.76	481.88	"ontbrekend"	"Ja"	3	8620.66	"aangenaam warm"	4004.0	2625.21
+32746	1536.75	399.87	"heel lekker"	"Nee"	3	8618.97	"heet"	-751.0	2625.21
+32863	1536.75	1360.85	"lekker"	"Nee"	3	8618.94	"vrieskou"	772.0	2625.21
+32972	1536.78	820.57	"heel lekker"	"Ja"	4	8618.95	"vrieskou"	2366.0	2625.21
+32133	1536.76	1098.9	"lekker"	"Ja"	5	8622.78	"warm"	87.0	2625.21
+32372	1537.24	448.44	"neutraal"	"Nee"	1	8618.94	"vrieskou"	1958.0	2625.21
+32569	1536.75	379.02	"lekker"	"Nee"	1	8618.94	"lage temperatuur"	4846.0	2625.4
+32323	1536.75	399.53	"lekker"	"Ja"	3	8619.42	"warm"	2759.0	2625.21
+32471	1536.75	-378.37	"heel lekker"	"Ja"	2	8618.95	"aangenaam warm"	6364.0	2625.27
+32273	1536.76	189.9	"neutraal"	"Ja"	1	12643.48	"aangenaam warm"	-202.0	2625.23
+32255	1536.76	1090.34	"slecht"	"Ja"	5	8618.96	"aangenaam warm"	4102.0	2625.21
+32101	1536.75	888.9	"heel lekker"	"Ja"	3	8619.0	"warm"	1310.0	2625.21
+32299	1536.8	933.82	"heel lekker"	"Ja"	2	8618.94	"lage temperatuur"	3753.0	2625.21
+32387	1536.75	541.42	"lekker"	"Ja"	2	8619.59	"aangenaam warm"	3855.0	2625.21
+32624	1536.76	-304.6	"slecht"	"Nee"	5	8619.25	"heet"	3399.0	2625.21
+32255	1537.2	512.07	"lekker"	"Ja"	2	8625.98	"vrieskou"	3305.0	2625.21
+32867	1541.1	-16.03	"lekker"	"Nee"	3	8676.57	"lage temperatuur"	1110.0	2625.21
+32164	1537.56	-25.4	"lekker"	"Ja"	4	8619.64	"aangenaam warm"	2297.0	2625.29
+32330	1536.75	307.2	"heel lekker"	"Ja"	3	8620.05	"aangenaam warm"	-571.0	2625.21
+32583	1536.75	416.23	"heel lekker"	"Ja"	4	8619.11	"heet"	1400.0	2625.24
+32319	1538.67	972.71	"heel lekker"	"Ja"	3	8622.09	"vrieskou"	1703.0	2625.21
+32774	1536.76	236.62	"slecht"	"Ja"	3	8619.11	"warm"	5282.0	2625.22
+32506	1536.75	508.08	"heel lekker"	"ontbrekend"	1	8623.11	"lage temperatuur"	3861.0	2625.22
+32523	1536.8	375.84	"lekker"	"Nee"	4	8618.94	"onbekend"	3343.0	2625.23
+32507	1537.17	386.09	"lekker"	"Ja"	5	8635.1	"vrieskou"	-676.0	2625.21
+32315	1536.76	484.49	"lekker"	"Nee"	2	8619.0	"aangenaam warm"	1385.0	2625.21
+32026	1536.75	879.75	"heel lekker"	"Ja"	5	8630.57	"warm"	2471.0	2625.21
+32945	1536.75	721.37	"heel lekker"	"Ja"	3	8691.9	"aangenaam warm"	1069.0	2625.53
+32514	1536.76	486.68	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	-977.0	2627.0
+32963	1536.76	360.87	"zeer slecht"	"Ja"	4	8620.69	"aangenaam warm"	148.0	2625.21
+32221	1536.76	703.6	"slecht"	"Ja"	5	8660.82	"warm"	2620.0	2625.3
+32354	1546.06	697.58	"neutraal"	"Ja"	3	8619.43	"lage temperatuur"	1897.0	2625.21
+32054	1536.75	142.34	"zeer slecht"	"Ja"	3	8619.07	"aangenaam warm"	2919.0	2625.21
+32502	1536.79	728.98	"slecht"	"Ja"	5	8621.74	"warm"	2429.0	2625.21
+32885	1537.21	875.08	"heel lekker"	"Ja"	2	8638.49	"lage temperatuur"	1350.0	2625.21
+32666	1536.75	340.63	"lekker"	"Ja"	2	8618.94	"warm"	2449.0	2646.95
+32476	1537.43	188.86	"lekker"	"Nee"	2	8618.99	"aangenaam warm"	529.0	2625.21
+32546	1536.76	-67.07	"lekker"	"ontbrekend"	4	8618.96	"warm"	3066.0	2625.21
+32850	1536.75	622.32	"lekker"	"Nee"	1	8636.01	"heet"	-343.0	2625.21
+32438	1536.8	601.81	"heel lekker"	"Nee"	4	8618.94	"aangenaam warm"	-268.0	2625.21
+32885	1536.76	724.97	"slecht"	"Ja"	4	8619.11	"aangenaam warm"	2320.0	2627.94
+32740	1537.07	844.0	"lekker"	"Ja"	2	8619.04	"heet"	3852.0	2626.06
+32774	1536.76	121.56	"lekker"	"Ja"	3	8621.59	"aangenaam warm"	2476.0	2625.22
+32368	1536.75	-179.12	"neutraal"	"Ja"	3	8619.04	"lage temperatuur"	556.0	2625.21
+32404	1537.41	150.06	"neutraal"	"Ja"	5	8618.94	"warm"	4245.0	2625.21
+32576	1536.85	1.43	"lekker"	"Ja"	1	8623.36	"warm"	-4.0	2625.26
+32201	1536.92	278.84	"neutraal"	"Ja"	1	8622.08	"warm"	5508.0	2625.21
+32562	1536.75	270.94	"heel lekker"	"Ja"	2	8619.43	"aangenaam warm"	1460.0	2625.21
+32077	1536.9	809.11	"lekker"	"Ja"	1	8618.97	"aangenaam warm"	1286.0	2625.21
+32514	1536.93	688.25	"lekker"	"Nee"	3	8619.86	"lage temperatuur"	1551.0	2625.21
+32775	1537.06	528.4	"lekker"	"Ja"	3	8619.28	"lage temperatuur"	2544.0	2625.25
+32286	1536.93	-140.17	"heel lekker"	"Ja"	2	8618.94	"aangenaam warm"	3683.0	2625.21
+32986	1536.76	1400.41	"lekker"	"Ja"	4	8619.53	"aangenaam warm"	5999.0	2625.21
+32694	1536.75	756.78	"slecht"	"Ja"	1	8618.96	"aangenaam warm"	2250.0	2625.45
+32122	1536.8	929.18	"lekker"	"Nee"	3	8619.64	"aangenaam warm"	2137.0	2625.21
+32972	1536.75	512.65	"heel lekker"	"Ja"	5	8628.91	"heet"	5637.0	2625.21
+32397	1536.75	111.08	"heel lekker"	"Nee"	4	8619.33	"vrieskou"	2600.0	2625.21
+32802	1536.86	571.94	"slecht"	"Ja"	4	8618.97	"vrieskou"	2894.0	2625.21
+32340	1536.76	469.4	"slecht"	"Nee"	4	8619.55	"warm"	1148.0	2625.21
+32939	1537.39	709.38	"lekker"	"Ja"	1	8618.94	"aangenaam warm"	1359.0	2625.21
+32765	1536.96	509.63	"lekker"	"Ja"	4	8626.57	"warm"	-562.0	2648.53
+32206	"ontbrekend"	1077.01	"lekker"	"Ja"	4	8621.34	"vrieskou"	4265.0	2625.21
+32519	1536.86	412.53	"neutraal"	"Ja"	3	8618.94	"aangenaam warm"	"onbekend"	2625.23
+32509	1536.76	454.51	"heel lekker"	"Ja"	5	8619.03	"vrieskou"	521.0	2625.22
+32048	1536.75	779.2	"heel lekker"	"Ja"	3	8636.7	"lage temperatuur"	2429.0	2625.21
+32139	1538.44	1160.2	"slecht"	"Ja"	2	8619.09	"vrieskou"	-2114.0	2625.21
+32335	1536.8	791.98	"heel lekker"	"Nee"	4	8618.94	"aangenaam warm"	2251.0	2625.21
+32478	1536.85	1067.03	"heel lekker"	"Ja"	3	8619.01	"warm"	1424.0	2625.21
+32459	1537.08	267.44	"neutraal"	"Nee"	1	8618.94	"aangenaam warm"	-762.0	2625.21
+32613	1536.79	1118.57	"heel lekker"	"Nee"	1	8618.97	"warm"	3508.0	2625.21
+32524	1537.06	608.47	"lekker"	"Ja"	4	8619.15	"warm"	3315.0	2625.23
+32330	1536.75	1293.99	"heel lekker"	"Ja"	2	8618.94	"aangenaam warm"	2994.0	2625.21
+32620	1536.83	491.49	"heel lekker"	"Ja"	4	8618.98	"lage temperatuur"	172.0	2625.22
+32169	1536.77	819.74	"neutraal"	"Ja"	3	8618.98	"aangenaam warm"	2140.0	2625.21
+32988	1536.77	1015.27	"slecht"	"Ja"	5	8619.62	"aangenaam warm"	1050.0	2625.21
+32751	1537.04	1171.74	"heel lekker"	"Ja"	5	8618.94	"aangenaam warm"	3026.0	2625.21
+32307	1536.77	693.23	"neutraal"	"Nee"	2	8620.25	"heet"	147.0	2625.21
+32338	1536.75	493.17	"heel lekker"	"Nee"	4	8623.93	"aangenaam warm"	97.0	2625.34
+32833	"ontbrekend"	852.39	"heel lekker"	"Nee"	3	8618.94	"vrieskou"	3825.0	2625.21
+32541	1536.8	598.82	"zeer slecht"	"Ja"	1	8618.95	"lage temperatuur"	-1473.0	2625.21
+32722	1536.76	180.74	"heel lekker"	"Ja"	4	8618.94	"aangenaam warm"	1679.0	2625.22
+32307	1537.65	745.44	"neutraal"	"Ja"	3	8622.35	"heet"	1743.0	2625.21
+32822	1539.27	609.09	"slecht"	"Ja"	2	8618.94	"aangenaam warm"	2041.0	2625.35
+32370	1536.78	998.26	"heel lekker"	"Ja"	1	8619.43	"warm"	2921.0	2625.21
+32689	1536.75	11.02	"lekker"	"Ja"	3	8619.1	"aangenaam warm"	4415.0	2625.21
+32977	1536.77	1129.89	"slecht"	"Nee"	1	8619.01	"vrieskou"	1366.0	2625.21
+32590	1536.75	301.63	"lekker"	"Ja"	3	8619.15	"lage temperatuur"	1069.0	2625.24
+32803	1536.76	316.02	"lekker"	"Ja"	2	8640.84	"lage temperatuur"	5066.0	2625.22
+32738	1536.76	113.4	"lekker"	"Ja"	1	8661.22	"aangenaam warm"	-923.0	2625.24
+32700	1536.75	383.93	"lekker"	"Ja"	4	8619.37	"vrieskou"	728.0	2625.21
+32030	1536.75	986.8	"lekker"	"ontbrekend"	3	8619.06	"aangenaam warm"	677.0	2625.43
+32479	1577.55	848.97	"neutraal"	"Ja"	3	8618.94	"warm"	-710.0	2625.27
+32963	1536.87	747.72	"slecht"	"Ja"	3	8618.94	"aangenaam warm"	2162.0	2625.28
+32792	1536.77	301.74	"lekker"	"Ja"	3	8619.14	"lage temperatuur"	-1896.0	2625.21
+32786	1537.13	500.13	"heel lekker"	"Ja"	2	8620.09	"warm"	374.0	2625.21
+32583	1536.75	748.24	"neutraal"	"Ja"	2	8619.31	"aangenaam warm"	1510.0	"onbekend"
+32733	1536.77	357.39	"lekker"	"Ja"	3	8621.2	"lage temperatuur"	3852.0	2625.21
+32590	1536.77	742.81	"zeer slecht"	"Ja"	1	8650.95	"lage temperatuur"	2911.0	2625.24
+32177	1536.75	466.48	"heel lekker"	"Ja"	1	8618.94	"warm"	2033.0	2625.21
+32640	1536.75	939.34	"neutraal"	"Ja"	3	8618.94	"aangenaam warm"	2541.0	2625.21
+32629	1536.79	125.17	"lekker"	"Ja"	1	8618.94	"heet"	4335.0	2625.39
+32845	1536.76	-383.94	"lekker"	"Ja"	3	8704.16	"aangenaam warm"	1418.0	2625.21
+32150	1536.77	537.26	"neutraal"	"Ja"	1	8625.18	"lage temperatuur"	155.0	2625.21
+32694	1536.81	468.58	"heel lekker"	"Ja"	3	8619.11	"aangenaam warm"	3395.0	2625.21
+32033	1536.75	539.26	"heel lekker"	"Nee"	4	8618.94	"vrieskou"	3478.0	2625.21
+32948	1536.79	1232.04	"lekker"	"Ja"	1	8618.94	"aangenaam warm"	-46.0	2625.22
+32114	1536.78	943.11	"heel lekker"	"Ja"	1	8619.08	"lage temperatuur"	3502.0	2625.21
+32021	1536.79	640.78	"heel lekker"	"Ja"	3	8619.34	"aangenaam warm"	2264.0	2625.21
+32320	1536.76	217.57	"lekker"	"Ja"	3	8621.88	"aangenaam warm"	-712.0	2625.21
+32154	1536.75	402.31	"neutraal"	"Ja"	4	8618.94	"warm"	5145.0	2625.21
+32702	1537.1	696.34	"lekker"	"Ja"	1	8619.26	"warm"	1732.0	2625.21
+32413	1537.55	380.99	"heel lekker"	"Ja"	3	8619.01	"vrieskou"	1198.0	2625.69
+32785	1536.76	651.88	"neutraal"	"Ja"	4	8618.94	"warm"	317.0	2625.21
+32922	1536.76	500.38	"slecht"	"Ja"	2	8618.95	"heet"	-289.0	2625.21
+32875	1536.76	415.13	"lekker"	"Ja"	1	8619.29	"lage temperatuur"	1949.0	2625.21
+32747	1536.75	583.75	"lekker"	"Ja"	4	8618.95	"warm"	992.0	2625.21
+32065	1536.78	1052.73	"heel lekker"	"Ja"	2	8619.34	"aangenaam warm"	4447.0	2625.22
+32141	1537.56	436.94	"neutraal"	"Ja"	5	8629.51	"lage temperatuur"	2388.0	2625.21
+32214	1556.86	738.74	"heel lekker"	"Ja"	1	8618.94	"warm"	1241.0	2625.21
+32329	1536.75	159.12	"heel lekker"	"Ja"	4	8618.94	"warm"	3258.0	2625.21
+32674	1536.84	-293.9	"heel lekker"	"Ja"	3	8618.95	"aangenaam warm"	3703.0	2625.21
+32535	1536.76	1050.33	"slecht"	"Ja"	2	8618.97	"aangenaam warm"	3371.0	2625.21
+32320	1536.75	123.75	"lekker"	"Ja"	2	8619.32	"lage temperatuur"	642.0	2625.22
+32180	1537.46	728.0	"neutraal"	"Ja"	3	8619.02	"aangenaam warm"	883.0	2625.21
+32915	1536.95	-8.17	"heel lekker"	"Ja"	1	8619.33	"aangenaam warm"	3406.0	2625.21
+32345	1545.95	544.21	"neutraal"	"Ja"	2	8620.03	"warm"	4161.0	2625.21
+32356	1536.76	321.31	"lekker"	"Nee"	5	8649.28	"aangenaam warm"	1561.0	2625.21
+32782	1536.75	988.84	"zeer slecht"	"Nee"	3	8619.08	"vrieskou"	-414.0	2625.41
+32732	1540.21	389.86	"neutraal"	"Nee"	5	8620.42	"warm"	965.0	2625.21
+32654	1536.93	512.74	"lekker"	"Ja"	3	8973.56	"warm"	3621.0	2625.26
+32706	1536.75	266.01	"neutraal"	"Ja"	1	8619.08	"aangenaam warm"	3092.0	2628.22
+32617	1536.98	652.44	"lekker"	"Ja"	1	8618.94	"lage temperatuur"	3436.0	2625.21
+32200	1536.77	650.24	"lekker"	"Nee"	4	8618.96	"aangenaam warm"	3587.0	2625.21
+32254	1536.77	865.5	"lekker"	"Ja"	1	8619.69	"aangenaam warm"	1212.0	2627.58
+32566	1536.75	104.84	"lekker"	"Ja"	3	8619.08	"warm"	404.0	2625.21
+32232	1536.75	517.89	"heel lekker"	"Nee"	4	8623.21	"lage temperatuur"	1748.0	2625.21
+32969	1536.77	426.76	"neutraal"	"Ja"	4	8619.18	"heet"	-147.0	2625.21
+32305	1536.75	815.84	"heel lekker"	"Ja"	1	8619.96	"aangenaam warm"	4845.0	2625.25
+32296	1536.75	923.95	"heel lekker"	"Nee"	1	8619.42	"aangenaam warm"	632.0	2625.21
+32214	1536.75	777.5	"neutraal"	"Nee"	5	8619.13	"lage temperatuur"	3769.0	2625.21
+32719	1536.78	847.6	"zeer slecht"	"Ja"	5	8619.03	"warm"	2067.0	2625.21
+32322	1536.76	592.5	"lekker"	"Ja"	5	8619.58	"aangenaam warm"	2373.0	2625.55
+32351	1536.92	611.21	"neutraal"	"Ja"	4	8618.94	"heet"	2441.0	2625.21
+32935	1539.66	732.85	"neutraal"	"Nee"	1	8619.55	"lage temperatuur"	1964.0	2625.21
+32802	1536.75	609.5	"heel lekker"	"Nee"	4	8619.34	"lage temperatuur"	607.0	2625.21
+32280	1536.76	427.35	"heel lekker"	"Ja"	1	8618.94	"aangenaam warm"	1226.0	2625.22
+32124	1537.24	205.98	"heel lekker"	"Nee"	3	8618.98	"vrieskou"	1147.0	2625.21
+32691	1536.78	87.51	"zeer slecht"	"Ja"	1	8618.94	"lage temperatuur"	1408.0	2625.21
+32381	1537.48	553.44	"lekker"	"Ja"	1	8618.94	"warm"	3127.0	2625.29
+32977	1536.76	478.69	"heel lekker"	"Nee"	3	8619.67	"aangenaam warm"	184.0	2625.39
+32824	1537.03	858.28	"heel lekker"	"Ja"	1	8618.94	"lage temperatuur"	2377.0	2625.21
+32952	1536.75	673.66	"slecht"	"Ja"	3	8618.94	"aangenaam warm"	2316.0	2625.21
+32811	1537.22	-398.28	"lekker"	"Nee"	2	8618.94	"warm"	296.0	2625.21
+32299	1536.79	368.02	"neutraal"	"Ja"	3	8618.94	"aangenaam warm"	4184.0	2625.7
+32295	1536.77	556.48	"lekker"	"Nee"	4	8645.64	"warm"	1365.0	2625.79
+32726	1536.78	802.47	"slecht"	"Ja"	1	8618.97	"aangenaam warm"	1970.0	2625.21
+32349	1536.75	124.86	"heel lekker"	"Ja"	4	8619.15	"aangenaam warm"	398.0	2625.21
+32446	1536.97	152.61	"heel lekker"	"Ja"	1	8619.25	"lage temperatuur"	2516.0	2625.31
+32264	1536.75	727.02	"slecht"	"Ja"	3	8619.0	"heet"	-129.0	2625.35
+32483	1536.77	910.8	"heel lekker"	"Ja"	4	8619.03	"warm"	1845.0	2625.22
+32210	1536.75	528.18	"heel lekker"	"Nee"	1	8622.4	"vrieskou"	1727.0	2625.22
+32548	1536.75	367.03	"lekker"	"Ja"	1	8618.94	"warm"	1360.0	2625.21
+32935	1536.75	406.19	"heel lekker"	"Ja"	2	8618.94	"aangenaam warm"	809.0	2625.24
+32708	1548.62	195.74	"lekker"	"Ja"	4	8628.83	"heet"	1912.0	2625.21
+32139	1539.0	351.53	"heel lekker"	"Ja"	3	8619.2	"aangenaam warm"	3480.0	2625.21
+32624	1536.8	633.54	"slecht"	"Nee"	1	8619.01	"warm"	2663.0	2625.21
+32593	1537.43	452.74	"slecht"	"Ja"	4	8619.3	"lage temperatuur"	1555.0	2625.21
+32250	1536.75	885.11	"slecht"	"Ja"	1	8618.94	"warm"	609.0	2625.21
+32683	1536.76	78.46	"heel lekker"	"onbekend"	3	8619.05	"warm"	5566.0	2625.21
+32540	1536.77	727.43	"slecht"	"Ja"	2	8619.0	"lage temperatuur"	4691.0	2625.22
+32649	1536.76	474.35	"lekker"	"Ja"	4	8618.94	"aangenaam warm"	-97.0	2625.21
+32057	1536.75	1277.31	"lekker"	"Ja"	4	8620.59	"aangenaam warm"	-34.0	2625.21
+32418	1679.72	575.68	"heel lekker"	"Ja"	5	8624.24	"warm"	4241.0	2625.24
+32729	1536.99	171.81	"neutraal"	"Ja"	1	8651.9	"aangenaam warm"	4027.0	2625.21
+32104	1536.75	694.23	"neutraal"	"Ja"	5	8618.94	"lage temperatuur"	1347.0	2625.25
+32781	1536.94	75.62	"neutraal"	"Ja"	4	8619.15	"aangenaam warm"	3478.0	2625.21
+32006	1536.77	72.93	"heel lekker"	"Ja"	2	8622.3	"vrieskou"	874.0	2625.21
+32559	1536.75	716.04	"heel lekker"	"Ja"	3	8619.23	"heet"	3418.0	2625.21
+32930	1536.75	309.23	"heel lekker"	"Ja"	5	8618.95	"vrieskou"	-213.0	2625.21
+32410	1536.76	46.24	"neutraal"	"Ja"	1	8618.94	"aangenaam warm"	5889.0	2625.21
+32936	1537.24	654.91	"neutraal"	"Ja"	2	8619.43	"warm"	-365.0	2625.21
+32882	1536.75	784.04	"slecht"	"Ja"	5	8619.48	"vrieskou"	3471.0	2625.21
+32482	1536.75	403.85	"neutraal"	"Ja"	3	8618.94	"aangenaam warm"	2938.0	2625.21
+32207	1536.81	869.86	"heel lekker"	"Ja"	1	8618.94	"aangenaam warm"	-496.0	2625.21
+32961	1536.75	1008.03	"lekker"	"Ja"	3	8619.01	"warm"	1288.0	2625.21
+32326	1536.75	657.38	"neutraal"	"Ja"	3	8619.04	"warm"	-59.0	2625.21
+32658	1536.75	531.27	"neutraal"	"Ja"	5	9065.26	"aangenaam warm"	2069.0	"ontbrekend"
+32911	1536.75	229.23	"lekker"	"Ja"	1	8618.95	"lage temperatuur"	5631.0	2625.43
+32095	1536.76	681.03	"lekker"	"Ja"	2	8618.96	"aangenaam warm"	1825.0	2661.3
+32580	1536.92	886.45	"lekker"	"Ja"	3	8618.94	"vrieskou"	2840.0	2625.21
+32545	1536.76	189.62	"heel lekker"	"Ja"	2	8618.94	"ontbrekend"	2890.0	2625.22
+32735	1536.76	501.51	"neutraal"	"Ja"	3	8619.54	"heet"	3847.0	2625.21
+32937	1536.76	585.4	"neutraal"	"Nee"	1	8618.95	"lage temperatuur"	-1640.0	2625.21
+32916	1536.75	-85.9	"neutraal"	"Ja"	2	8619.29	"lage temperatuur"	-1459.0	2625.21
+32182	1536.76	840.82	"slecht"	"Ja"	2	8618.97	"aangenaam warm"	2335.0	2625.21
+32885	1536.75	491.41	"neutraal"	"Ja"	3	8618.94	"vrieskou"	846.0	2625.22
+32182	1537.95	331.0	"lekker"	"Ja"	2	11596.3	"aangenaam warm"	-1060.0	2625.22
+32921	1537.28	299.83	"heel lekker"	"Ja"	5	8619.32	"aangenaam warm"	3424.0	2625.83
+32996	1536.75	469.21	"lekker"	"Ja"	3	8618.97	"warm"	6194.0	2625.3
+32400	1536.78	290.11	"zeer slecht"	"Ja"	4	8618.94	"warm"	1949.0	2625.21
+32502	1536.75	597.83	"heel lekker"	"Ja"	3	8773.47	"warm"	5742.0	2625.22
+32937	1536.75	335.91	"neutraal"	"Ja"	5	8618.94	"vrieskou"	-998.0	2625.21
+32959	1540.38	627.47	"slecht"	"Ja"	5	8618.95	"aangenaam warm"	6409.0	2625.21
+32927	1536.75	795.21	"neutraal"	"Ja"	4	8618.94	"warm"	1861.0	2625.21
+32880	1537.36	539.05	"lekker"	"Ja"	1	8618.95	"warm"	2842.0	2628.77
+32011	1536.76	344.56	"lekker"	"Ja"	3	8628.28	"aangenaam warm"	90.0	2625.21
+32574	1536.82	531.26	"lekker"	"Ja"	2	8619.0	"warm"	954.0	2625.21
+32111	1537.42	540.4	"neutraal"	"Nee"	1	8619.05	"aangenaam warm"	2289.0	2625.21
+32980	1536.75	-360.08	"heel lekker"	"Ja"	5	8620.07	"aangenaam warm"	4592.0	2625.21
+32292	1536.77	423.45	"zeer slecht"	"Ja"	4	8618.98	"aangenaam warm"	-2270.0	2625.81
+32986	1536.76	843.47	"lekker"	"Nee"	1	8618.95	"warm"	-872.0	2625.21
+32553	1536.88	627.9	"lekker"	"Ja"	3	8619.6	"vrieskou"	2469.0	2625.21
+32500	1536.75	798.59	"heel lekker"	"Ja"	5	8618.94	"warm"	206.0	2625.21
+32939	1536.8	192.19	"neutraal"	"Ja"	3	8619.01	"aangenaam warm"	4323.0	2625.21
+32854	1536.79	548.28	"lekker"	"Nee"	3	8618.94	"vrieskou"	1777.0	2625.21
+32474	1536.78	-54.92	"heel lekker"	"Ja"	2	8622.31	"aangenaam warm"	3977.0	2625.22
+32200	1536.75	164.77	"slecht"	"Ja"	2	8619.45	"lage temperatuur"	-120.0	2625.23
+32116	1537.03	480.34	"zeer slecht"	"Ja"	1	8619.0	"heet"	-1134.0	2625.21
+32169	1536.75	539.49	"heel lekker"	"Ja"	5	8618.98	"aangenaam warm"	-1284.0	2625.21
+32462	1536.79	244.46	"heel lekker"	"Ja"	5	8619.01	"warm"	2925.0	2625.21
+32264	1536.89	573.91	"slecht"	"Ja"	2	8619.14	"warm"	1074.0	2625.21
+32195	1536.75	213.87	"heel lekker"	"Nee"	3	8618.94	"vrieskou"	881.0	2625.22
+32748	1536.84	814.62	"lekker"	"Ja"	1	8620.11	"warm"	1069.0	2625.21
+32798	1536.96	451.19	"lekker"	"Ja"	1	8618.94	"warm"	2618.0	2625.26
+32574	1536.75	259.75	"lekker"	"Nee"	3	8619.01	"vrieskou"	1598.0	2625.21
+32767	1536.76	-18.09	"lekker"	"Ja"	4	8618.95	"heet"	997.0	2625.21
+32182	1537.95	814.33	"neutraal"	"Ja"	5	8619.09	"aangenaam warm"	1184.0	2625.21
+32859	1670.92	523.91	"heel lekker"	"Ja"	2	8635.88	"warm"	5096.0	2625.21
+32901	1536.76	828.06	"zeer slecht"	"Ja"	4	8619.18	"lage temperatuur"	603.0	2625.7
+32832	1536.88	309.57	"slecht"	"Ja"	3	8618.94	"aangenaam warm"	4407.0	2625.21
+32524	1536.76	262.65	"heel lekker"	"Ja"	1	8624.13	"aangenaam warm"	3577.0	2625.21
+32092	1536.88	476.15	"lekker"	"Nee"	5	8873.91	"aangenaam warm"	864.0	2625.21
+32681	1536.77	-73.29	"slecht"	"Ja"	5	8619.13	"lage temperatuur"	3934.0	2625.22
+32193	1536.76	787.09	"heel lekker"	"onbekend"	1	8632.77	"aangenaam warm"	5478.0	2625.22
+32143	1536.75	209.59	"heel lekker"	"Ja"	5	8619.01	"vrieskou"	5092.0	2625.21
+32328	1536.81	714.57	"neutraal"	"Nee"	5	8619.26	"warm"	3391.0	2625.21
+32255	1536.79	329.72	"zeer slecht"	"Nee"	2	8663.39	"lage temperatuur"	147.0	2625.51
+32267	1536.77	622.03	"lekker"	"Nee"	3	8618.94	"heet"	-32.0	2625.21
+32243	1536.75	1645.37	"neutraal"	"Nee"	5	8619.1	"lage temperatuur"	1631.0	2625.27
+32764	1536.75	916.83	"lekker"	"Ja"	1	8619.19	"lage temperatuur"	5479.0	2625.21
+32952	1536.75	884.5	"heel lekker"	"Ja"	2	8628.45	"aangenaam warm"	1587.0	2625.21
+32309	1536.79	494.52	"lekker"	"Ja"	5	8618.94	"heet"	1773.0	2625.21
+32735	1536.75	402.73	"zeer slecht"	"Ja"	4	8622.21	"aangenaam warm"	-352.0	2625.26
+32014	1537.56	-256.1	"lekker"	"Ja"	4	8618.95	"heet"	-2032.0	2625.21
+32666	1536.87	94.94	"neutraal"	"Ja"	5	8625.22	"lage temperatuur"	-1948.0	2625.21
+32705	1537.2	612.74	"neutraal"	"Ja"	3	8767.22	"warm"	2373.0	2625.21
+32065	1536.75	867.38	"neutraal"	"Ja"	3	8619.13	"lage temperatuur"	522.0	2625.24
+32121	1536.75	276.73	"neutraal"	"Ja"	3	8619.04	"aangenaam warm"	1141.0	2625.22
+32314	1536.76	157.07	"heel lekker"	"Ja"	5	8619.0	"lage temperatuur"	694.0	2625.21
+32409	1536.75	882.58	"zeer slecht"	"Ja"	5	8623.91	"aangenaam warm"	1055.0	2625.23
+32512	1536.75	72.45	"lekker"	"Ja"	5	8623.56	"lage temperatuur"	2586.0	2625.21
+32900	1536.76	259.75	"neutraal"	"Nee"	2	8618.94	"vrieskou"	184.0	2625.22
+32717	1537.19	489.1	"neutraal"	"Ja"	4	8655.09	"aangenaam warm"	164.0	2625.21
+32317	1538.43	483.54	"lekker"	"Ja"	1	8620.23	"aangenaam warm"	3423.0	2625.21
+32120	1536.96	650.45	"lekker"	"Ja"	1	8713.49	"aangenaam warm"	1356.0	2625.24
+32918	1536.76	1206.07	"slecht"	"Ja"	4	8618.94	"lage temperatuur"	1039.0	2625.21
+32302	1536.77	719.04	"neutraal"	"Ja"	3	8618.99	"warm"	6221.0	2625.21
+32624	1536.77	430.44	"slecht"	"ontbrekend"	2	8618.95	"aangenaam warm"	1973.0	2625.21
+32225	1536.75	839.42	"neutraal"	"Ja"	3	8618.96	"aangenaam warm"	4782.0	2625.23
+32136	1537.18	431.96	"heel lekker"	"Ja"	2	8618.95	"lage temperatuur"	-1038.0	2625.21
+32157	1536.76	506.0	"lekker"	"Ja"	2	8619.34	"aangenaam warm"	-1853.0	2625.3
+32759	1536.76	1186.53	"lekker"	"Ja"	4	8622.83	"warm"	3728.0	2625.21
+32612	1536.77	965.87	"heel lekker"	"Ja"	3	8618.97	"heet"	4063.0	2625.21
+32421	1536.98	1029.8	"heel lekker"	"Ja"	4	8620.03	"warm"	3203.0	2625.21
+32558	1536.76	717.36	"heel lekker"	"Ja"	3	8618.97	"heet"	-1197.0	2625.21
+32476	1536.75	1123.07	"heel lekker"	"Ja"	3	8618.98	"vrieskou"	3286.0	2625.21
+32547	1536.76	731.74	"lekker"	"Nee"	3	8862.52	"warm"	364.0	2625.21
+32675	1536.75	298.05	"lekker"	"Ja"	4	8628.03	"aangenaam warm"	2606.0	2625.21
+32225	1536.76	451.36	"lekker"	"Ja"	3	8620.72	"vrieskou"	-360.0	2625.23
+32255	1536.78	924.08	"heel lekker"	"Nee"	4	8618.95	"warm"	2871.0	2625.21
+32765	1536.79	1063.44	"lekker"	"Ja"	3	8630.68	"lage temperatuur"	1279.0	2625.21
+32875	1536.75	826.55	"lekker"	"Ja"	1	8619.44	"heet"	2046.0	2625.21
+32086	1536.75	433.51	"neutraal"	"Ja"	1	8618.98	"lage temperatuur"	1516.0	2625.21
+32450	1536.75	259.16	"neutraal"	"Ja"	1	8619.04	"lage temperatuur"	4952.0	2625.21
+32717	1537.44	89.58	"neutraal"	"Ja"	4	8618.95	"aangenaam warm"	3174.0	2625.21
+32082	1536.75	-64.13	"heel lekker"	"Ja"	1	8619.38	"aangenaam warm"	-432.0	2625.22
+32571	1536.75	430.82	"heel lekker"	"Nee"	2	8618.95	"warm"	-1325.0	2625.23
+32065	1536.75	717.26	"slecht"	"Nee"	3	8618.94	"aangenaam warm"	2031.0	2625.22
+32557	1536.9	512.37	"heel lekker"	"Ja"	4	8618.98	"aangenaam warm"	4790.0	2625.21
+32514	1536.75	137.49	"lekker"	"Ja"	5	8619.56	"lage temperatuur"	-1328.0	2625.21
+32579	1541.71	548.31	"heel lekker"	"Ja"	4	8618.94	"heet"	2829.0	2625.21
+32152	1536.88	507.83	"heel lekker"	"Nee"	1	8618.95	"aangenaam warm"	679.0	2625.21
+32330	1536.76	699.39	"heel lekker"	"Ja"	5	8621.77	"lage temperatuur"	-490.0	2625.22
+32529	1536.75	701.21	"slecht"	"Ja"	5	8619.12	"aangenaam warm"	3639.0	2625.21
+32120	1536.78	1486.99	"lekker"	"Ja"	5	8619.53	"aangenaam warm"	308.0	2625.21
+32213	1536.76	517.66	"neutraal"	"onbekend"	3	8619.0	"aangenaam warm"	5544.0	2625.21
+32590	1536.79	344.72	"heel lekker"	"Ja"	2	8618.95	"lage temperatuur"	-2166.0	2625.21
+32096	1536.75	924.36	"heel lekker"	"Ja"	3	8618.98	"vrieskou"	4884.0	2625.28
+32520	1536.77	1063.41	"slecht"	"Ja"	2	8893.97	"warm"	964.0	2625.21
+"onbekend"	1536.8	39.59	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	3637.0	2625.23
+32456	1536.78	1248.82	"neutraal"	"Nee"	1	8648.51	"heet"	1023.0	2625.21
+32522	1536.75	685.3	"heel lekker"	"Ja"	4	8697.46	"aangenaam warm"	2252.0	2625.21
+32459	1536.92	770.05	"heel lekker"	"Ja"	3	8619.68	"aangenaam warm"	-2015.0	2625.21
+32062	1536.76	654.65	"lekker"	"Nee"	2	8638.47	"aangenaam warm"	1451.0	2625.21
+32467	1536.75	1176.92	"heel lekker"	"Ja"	3	8620.25	"aangenaam warm"	3453.0	2652.78
+32814	1541.84	19.37	"heel lekker"	"Ja"	4	8619.13	"aangenaam warm"	2920.0	2625.21
+32735	1548.04	404.66	"neutraal"	"Ja"	3	8619.13	"aangenaam warm"	1570.0	2625.21
+32398	1536.75	841.75	"lekker"	"Ja"	3	8631.29	"aangenaam warm"	-1165.0	2625.21
+32823	1536.89	756.89	"heel lekker"	"Ja"	"ontbrekend"	8619.38	"warm"	846.0	2625.25
+32756	1537.73	537.03	"lekker"	"Ja"	4	8661.01	"aangenaam warm"	2947.0	2625.21
+32584	1536.76	856.09	"heel lekker"	"Ja"	3	8618.98	"aangenaam warm"	2637.0	2625.21
+32048	1536.76	588.24	"zeer slecht"	"Ja"	3	8619.64	"lage temperatuur"	750.0	2625.21
+32347	1537.04	1146.82	"heel lekker"	"Ja"	4	8620.0	"warm"	3374.0	2625.21
+32067	1536.75	777.1	"heel lekker"	"Ja"	1	8619.61	"lage temperatuur"	-418.0	2625.21
+32993	1536.75	694.72	"lekker"	"Ja"	5	8621.73	"lage temperatuur"	2641.0	2625.24
+32936	1536.85	605.21	"lekker"	"Ja"	3	8619.82	"aangenaam warm"	880.0	2625.21
+32072	1536.76	582.18	"neutraal"	"Nee"	3	8618.94	"heet"	2221.0	2625.21
+32935	1536.76	578.75	"heel lekker"	"Nee"	4	8618.94	"warm"	139.0	2625.21
+32033	1536.89	554.7	"heel lekker"	"Ja"	3	8619.02	"vrieskou"	2484.0	2625.21
+32411	1536.76	572.9	"lekker"	"Ja"	3	8619.04	"aangenaam warm"	959.0	2625.22
+32780	1536.76	665.01	"neutraal"	"Ja"	3	8619.16	"aangenaam warm"	1813.0	2625.21
+32776	1536.76	702.44	"lekker"	"Ja"	1	8618.94	"lage temperatuur"	2230.0	2625.22
+32975	1536.79	636.37	"slecht"	"Ja"	2	8618.99	"heet"	2080.0	2625.21
+32658	1536.75	567.04	"neutraal"	"Nee"	3	8618.95	"warm"	806.0	2625.21
+32426	1536.76	483.67	"neutraal"	"Ja"	2	8619.12	"lage temperatuur"	2427.0	2625.21
+32990	1536.76	514.59	"lekker"	"Nee"	4	8618.94	"heet"	-454.0	2625.21
+32385	1536.77	-17.2	"zeer slecht"	"Ja"	3	8618.94	"warm"	5548.0	2625.21
+32871	1537.05	-244.86	"heel lekker"	"Ja"	3	8618.94	"aangenaam warm"	2790.0	2625.21
+32910	1536.85	-143.31	"neutraal"	"Ja"	3	8623.47	"aangenaam warm"	1583.0	2625.21
+32378	1536.75	340.42	"slecht"	"Ja"	1	8620.41	"lage temperatuur"	316.0	2625.21
+32696	1539.35	951.06	"heel lekker"	"Ja"	3	8618.94	"lage temperatuur"	1303.0	2625.21
+32673	1536.76	1284.82	"heel lekker"	"Ja"	1	8619.61	"vrieskou"	2963.0	2625.21
+32549	1536.75	503.23	"heel lekker"	"Ja"	4	8619.0	"aangenaam warm"	2459.0	2625.21
+32666	1536.75	719.97	"neutraal"	"Ja"	3	8618.94	"lage temperatuur"	-289.0	2625.22
+32350	1537.49	1081.63	"zeer slecht"	"Ja"	4	8620.67	"lage temperatuur"	913.0	2625.21
+32186	1537.97	556.78	"lekker"	"Nee"	1	8618.97	"lage temperatuur"	4164.0	2625.21
+32546	1536.75	683.18	"heel lekker"	"Ja"	4	8621.89	"aangenaam warm"	1896.0	2625.21
+32538	1536.81	345.95	"heel lekker"	"Ja"	5	8618.96	"vrieskou"	4139.0	2625.21
+32741	1536.79	619.47	"heel lekker"	"Ja"	4	8618.98	"aangenaam warm"	251.0	2625.21
+32229	1537.06	535.9	"heel lekker"	"Ja"	1	8618.96	"aangenaam warm"	-12.0	2625.21
+32004	1536.75	376.25	"heel lekker"	"Nee"	3	8624.82	"aangenaam warm"	1578.0	2636.42
+32025	1539.4	-103.74	"lekker"	"Ja"	3	8619.33	"aangenaam warm"	1947.0	2625.21
+32306	1536.75	743.77	"heel lekker"	"Ja"	1	8618.94	"lage temperatuur"	2976.0	2625.21
+32688	1536.75	1166.45	"lekker"	"Ja"	3	8620.12	"aangenaam warm"	6713.0	2625.21
+32554	1536.81	190.74	"slecht"	"Nee"	4	8619.0	"heet"	852.0	2625.22
+32541	1543.55	933.54	"neutraal"	"Nee"	1	8628.87	"aangenaam warm"	-896.0	2625.21
+32829	1543.37	836.05	"slecht"	"Ja"	3	8619.04	"aangenaam warm"	-177.0	2625.23
+32255	1536.79	19.16	"neutraal"	"Ja"	2	8618.94	"lage temperatuur"	3400.0	2625.21
+32348	1536.76	-316.09	"heel lekker"	"Ja"	4	8619.04	"aangenaam warm"	2534.0	2625.22
+32283	1536.75	1595.39	"heel lekker"	"Ja"	5	8618.94	"aangenaam warm"	717.0	2625.21
+32938	1536.76	99.02	"heel lekker"	"Ja"	4	8618.94	"vrieskou"	511.0	2625.21
+32737	1536.79	963.97	"lekker"	"Ja"	4	8619.1	"warm"	1873.0	2625.21

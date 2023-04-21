@@ -1,0 +1,6 @@
+datum,tijdstip,waarde,betrouwbaarheid
+2022-01-01,00:00,3.5,slecht
+2022-01-02,00:05,3.4,goed
+2022-01-03,00:10,Onbekend,ontoereikend
+2022-01-04,00:15,3.2,goed
+2022-01-05,1:15,3.1,NA

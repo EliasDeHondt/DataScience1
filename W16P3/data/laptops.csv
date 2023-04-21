@@ -1,0 +1,858 @@
+cpuGeneration;cpuType;RAM;diskspace;brand
+Kabylake;i7;4;232,5;Toshiba
+Kabylake;i5;2;992,5;Acer
+Haswell;i7;16;495,6;Dell
+Skylake;i7;4;217,2;Toshiba
+Broadwell;i5;4;245,8;Acer
+Broadwell;i5;8;502,6;Medion
+Skylake;i3;4;224;HP
+Ivy Bridge;i5;8;250,5;Dell
+Skylake;i5;8;98,2;Medion
+Skylake;i3;2;484,4;Medion
+Broadwell;i3;4;482,9;Dell
+Skylake;i5;4;246,2;Toshiba
+Kabylake;i5;4;485,8;HP
+Haswell;i5;8;221,5;Lenovo
+Broadwell;i5;4;484,5;Medion
+Kabylake;i3;1;501,7;Toshiba
+Kabylake;i5;4;499,8;Dell
+Ivy Bridge;i5;4;231,3;Acer
+Broadwell;i5;16;493,3;Asus
+Broadwell;i3;1;497,5;Acer
+Kabylake;i5;8;494,1;HP
+Ivy Bridge;i7;1;244,6;Medion
+Kabylake;i5;4;91,6;Toshiba
+Kabylake;i5;8;472,6;Lenovo
+Ivy Bridge;i5;16;229,9;HP
+Broadwell;i5;1;218,1;Lenovo
+Haswell;i5;4;96,1;HP
+Kabylake;i5;1;477,2;HP
+Broadwell;i3;4;490;Toshiba
+Skylake;i3;2;237,6;Dell
+Skylake;i3;4;246,2;Dell
+Skylake;i5;1;234,7;Lenovo
+Haswell;i5;4;119,5;Apple
+Skylake;i5;4;488,2;Toshiba
+Sandy Bridge;i5;4;226,2;Toshiba
+Skylake;i5;4;499,6;Toshiba
+Sandy Bridge;i5;2;249,9;Acer
+Ivy Bridge;i5;8;221,3;Acer
+Kabylake;i5;2;487,4;Toshiba
+Broadwell;i5;4;230,2;HP
+Haswell;i3;16;216,6;Asus
+Broadwell;i7;16;500,8;Dell
+Sandy Bridge;i5;8;472,3;Dell
+Kabylake;i3;4;249,6;HP
+Broadwell;i3;2;482,9;Toshiba
+Kabylake;i5;4;247,9;Dell
+Kabylake;i3;2;222,4;Asus
+Broadwell;i5;2;102,3;Acer
+Kabylake;i5;16;124,6;Dell
+Kabylake;i5;2;485,5;HP
+Haswell;i3;16;234,8;Acer
+Haswell;i5;16;1018,5;Toshiba
+Kabylake;i3;2;251,4;Acer
+Skylake;i5;4;486;Toshiba
+Sandy Bridge;i5;2;223;Acer
+Skylake;i5;16;114,2;HP
+Broadwell;i5;16;486,3;HP
+Ivy Bridge;i5;4;222,2;Toshiba
+Haswell;i5;4;243,7;Acer
+Broadwell;i7;8;219,8;Asus
+Broadwell;i5;16;88,9;HP
+Kabylake;i3;2;125,4;Asus
+Skylake;i3;16;483,1;HP
+Broadwell;i7;4;483,9;HP
+Skylake;i7;8;497;Dell
+Ivy Bridge;i7;4;474,4;Dell
+Haswell;i7;4;500,8;Lenovo
+Skylake;i5;1;227;Toshiba
+Broadwell;i5;16;478,7;Toshiba
+Haswell;i3;16;220,6;Dell
+Sandy Bridge;i5;4;242,7;Dell
+Ivy Bridge;i3;4;509,7;HP
+Ivy Bridge;i5;8;216,1;HP
+Broadwell;i5;4;95,5;Dell
+Ivy Bridge;i5;2;250,9;Acer
+Skylake;i5;4;486,7;Toshiba
+Kabylake;i5;4;482,3;Toshiba
+Haswell;i5;8;254,9;Lenovo
+Broadwell;i3;8;106,2;HP
+Sandy Bridge;i3;8;255,5;Asus
+Broadwell;i5;4;118,2;Toshiba
+Ivy Bridge;i3;1;247,2;Dell
+Haswell;i5;8;501,2;Dell
+Broadwell;i5;2;472,9;Dell
+Skylake;i5;16;486,4;Asus
+Broadwell;i3;1;228,1;Acer
+Haswell;i5;8;254,8;Toshiba
+Ivy Bridge;i5;4;510,6;HP
+Ivy Bridge;i5;4;489,7;HP
+Haswell;i3;16;997,4;Toshiba
+Broadwell;i5;4;241,4;Acer
+Sandy Bridge;i5;4;482,4;Apple
+Ivy Bridge;i3;4;510,7;HP
+Skylake;i5;2;235,5;Medion
+Skylake;i5;16;217,7;HP
+Skylake;i5;4;508,7;Acer
+Haswell;i5;1;122;Dell
+Broadwell;i5;4;251,9;Acer
+Kabylake;i5;4;250,8;Apple
+Kabylake;i5;4;231,3;Apple
+Broadwell;i5;16;243,5;Acer
+Ivy Bridge;i5;4;236,4;Acer
+Ivy Bridge;i5;4;224,4;HP
+Haswell;i5;1;255,4;HP
+Kabylake;i5;1;240,1;HP
+Kabylake;i3;8;987,7;Dell
+Broadwell;i5;4;229;Acer
+Broadwell;i3;8;228,5;Dell
+Broadwell;i5;4;509,6;Dell
+Kabylake;i3;4;219,8;Dell
+Broadwell;i3;8;497,9;HP
+Skylake;i5;1;510,6;Acer
+Kabylake;i3;4;494,2;Dell
+Haswell;i5;16;110,5;Toshiba
+Kabylake;i5;8;475,1;Lenovo
+Kabylake;i5;8;219,5;HP
+Kabylake;i5;2;245,4;Medion
+Haswell;i3;8;487,9;Dell
+Broadwell;i3;4;482,7;HP
+Skylake;i5;2;216,5;Dell
+Haswell;i7;4;98,3;Toshiba
+Haswell;i7;4;90,4;Acer
+Broadwell;i3;4;253,3;Lenovo
+Broadwell;i5;4;235,2;HP
+Broadwell;i3;2;96,8;Apple
+Haswell;i5;16;498;Acer
+Skylake;i5;8;220,6;Acer
+Skylake;i5;16;248;Toshiba
+Kabylake;i3;2;511,7;HP
+Kabylake;i5;8;232,4;Lenovo
+Skylake;i7;1;481,9;HP
+Broadwell;i3;4;250,5;HP
+Broadwell;i5;4;218,6;Dell
+Skylake;i5;8;484,8;Acer
+Skylake;i3;8;498,6;Asus
+Broadwell;i5;8;244,3;HP
+Skylake;i5;16;245,3;HP
+Ivy Bridge;i3;4;491;Toshiba
+Kabylake;i3;2;488,9;HP
+Broadwell;i5;8;496,1;Dell
+Ivy Bridge;i3;16;242,6;Acer
+Sandy Bridge;i5;8;1011,8;HP
+Haswell;i5;1;94,5;Acer
+Skylake;i7;8;247,4;HP
+Broadwell;i5;8;478,5;Acer
+Skylake;i5;4;995;Dell
+Ivy Bridge;i5;4;502,9;Dell
+Skylake;i5;8;251,5;Dell
+Kabylake;i3;8;221,3;HP
+Ivy Bridge;i5;4;103;Toshiba
+Broadwell;i5;4;122,8;HP
+Haswell;i3;8;478,6;Acer
+Kabylake;i5;2;508;HP
+Haswell;i5;16;488,9;Asus
+Broadwell;i5;4;227;Dell
+Broadwell;i7;8;218,5;Lenovo
+Ivy Bridge;i7;1;219;Dell
+Sandy Bridge;i3;8;251,6;Toshiba
+Ivy Bridge;i5;4;479,7;HP
+Kabylake;i3;4;242,9;Lenovo
+Skylake;i3;8;480,6;Dell
+Broadwell;i5;2;226,6;HP
+Kabylake;i3;2;500,7;Dell
+Ivy Bridge;i5;16;250,1;Asus
+Kabylake;i3;1;477;Medion
+Ivy Bridge;i5;2;227,8;Lenovo
+Haswell;i3;16;252;Asus
+Haswell;i3;8;122,1;Medion
+Ivy Bridge;i5;2;494,1;Lenovo
+Ivy Bridge;i7;1;231,3;Lenovo
+Broadwell;i3;8;498,3;Acer
+Haswell;i7;8;224,8;Dell
+Haswell;i5;4;483,1;Lenovo
+Haswell;i5;2;103,1;HP
+Haswell;i5;16;232,8;Lenovo
+Ivy Bridge;i3;8;235,5;Apple
+Skylake;i3;8;506,2;Dell
+Broadwell;i5;16;244,5;Acer
+Broadwell;i7;1;NA;HP
+Broadwell;i5;2;1009,4;Acer
+Skylake;i5;4;1006,7;Asus
+Skylake;i5;4;504,8;Toshiba
+Haswell;i7;8;254,9;HP
+Haswell;i5;8;498,1;Toshiba
+Kabylake;i5;16;994,8;HP
+Broadwell;i5;1;243,6;Acer
+Skylake;i5;8;238;Acer
+Broadwell;i5;16;252,6;Toshiba
+Ivy Bridge;i3;16;119;Medion
+Haswell;i5;16;494,1;Asus
+Ivy Bridge;i5;2;236;HP
+Broadwell;i5;8;500,2;Dell
+Ivy Bridge;i3;16;475,5;Acer
+Skylake;i5;4;487,9;Asus
+Sandy Bridge;i5;2;216;HP
+Sandy Bridge;i3;8;495,2;HP
+Kabylake;i5;16;507,3;HP
+Ivy Bridge;i3;16;502,7;Dell
+Broadwell;i5;4;487,2;HP
+Broadwell;i5;8;248,1;Dell
+Skylake;i5;8;484,5;Toshiba
+Broadwell;i3;2;219,8;Acer
+Skylake;i3;8;251,6;HP
+Kabylake;i3;8;231,7;Acer
+Ivy Bridge;i5;8;243;Toshiba
+Haswell;i3;4;93,9;HP
+Skylake;i3;8;1013,5;Dell
+Haswell;i5;8;115,6;Asus
+Kabylake;i5;4;221,5;HP
+Ivy Bridge;i5;4;246,4;HP
+Broadwell;i3;2;489,2;Dell
+Broadwell;i5;8;244;Acer
+Haswell;i5;2;96,5;HP
+Sandy Bridge;i5;8;246;Medion
+Haswell;i3;4;227,4;Apple
+Kabylake;i7;2;497,8;Lenovo
+Broadwell;i5;8;255,6;Acer
+Haswell;i3;2;239;HP
+Broadwell;i5;16;105,7;Asus
+Skylake;i5;4;238,4;HP
+Skylake;i5;1;230;Medion
+Ivy Bridge;i3;4;222,8;Acer
+Broadwell;i3;2;488;Acer
+Kabylake;i7;4;473,2;Acer
+Haswell;i7;8;496,4;Dell
+Kabylake;i7;4;477,9;Dell
+Haswell;i5;2;510,4;Toshiba
+Ivy Bridge;i5;4;95,6;Lenovo
+Kabylake;i5;1;232,7;HP
+Kabylake;i5;1;495;Dell
+Haswell;i5;16;511,2;Dell
+Ivy Bridge;i5;2;88,3;Dell
+Haswell;i3;8;510,8;Acer
+Sandy Bridge;i5;1;220,9;HP
+Skylake;i5;8;244,7;HP
+Kabylake;i5;4;216,7;Acer
+Sandy Bridge;i5;4;224,3;Asus
+Kabylake;i3;8;231,8;Lenovo
+Broadwell;i5;16;116,8;Lenovo
+Haswell;i5;8;508,1;Dell
+Sandy Bridge;i7;16;223,5;Dell
+Broadwell;i7;8;120,9;Apple
+Sandy Bridge;i5;4;474,2;Dell
+Skylake;i3;4;250,2;Toshiba
+Kabylake;i5;1;99,1;Lenovo
+Haswell;i5;16;486,3;Toshiba
+Ivy Bridge;i5;4;506,2;Lenovo
+Ivy Bridge;i5;2;494,4;HP
+Haswell;i5;4;495,8;Acer
+Skylake;i5;4;245,7;Toshiba
+Haswell;i7;4;228,3;Acer
+Kabylake;i5;1;502,8;Acer
+Skylake;i5;2;243,7;Apple
+Kabylake;i5;4;221,4;Dell
+Sandy Bridge;i5;1;484,5;HP
+Broadwell;i5;2;503,3;Toshiba
+Ivy Bridge;i5;8;228,7;Apple
+Haswell;i3;2;217,1;Medion
+Broadwell;i3;4;251,1;Acer
+Kabylake;i5;2;478,7;Toshiba
+Broadwell;i5;8;224,3;Acer
+Ivy Bridge;i3;4;483,6;Dell
+Haswell;i5;4;491,1;Toshiba
+Skylake;i5;4;233,6;HP
+Haswell;i5;4;509,9;Medion
+Skylake;i5;4;219,1;HP
+Broadwell;i3;4;487;Acer
+Skylake;i5;2;244,7;Acer
+Skylake;i5;8;993,2;Apple
+Skylake;i5;16;229,2;Toshiba
+Skylake;i5;NA;481,1;Lenovo
+Broadwell;i5;2;248,5;Toshiba
+Haswell;i7;4;496,7;Apple
+Ivy Bridge;i3;16;252;Dell
+Broadwell;i5;4;485;Dell
+Haswell;i5;4;510,9;Acer
+Skylake;i3;4;127,4;Lenovo
+Kabylake;i5;8;1003,6;Dell
+Skylake;i5;2;504,3;Dell
+Haswell;i5;4;482,6;Acer
+Haswell;i3;8;996,7;Toshiba
+Sandy Bridge;i5;8;493,6;Toshiba
+Ivy Bridge;i5;16;247,3;HP
+Kabylake;i3;2;248,2;HP
+Haswell;i5;2;253,6;Lenovo
+Skylake;i5;16;494,1;HP
+Kabylake;i5;8;1006,2;Apple
+Skylake;i3;4;217,1;Acer
+Kabylake;i3;16;245,9;Toshiba
+Sandy Bridge;i5;4;479,4;Toshiba
+Broadwell;i5;16;225,6;Acer
+Broadwell;i5;16;240,2;HP
+Haswell;i3;4;245,9;Toshiba
+Haswell;i5;8;475,6;HP
+Haswell;i5;8;475,5;Asus
+Sandy Bridge;i5;2;475,3;Toshiba
+Broadwell;i5;2;998,8;Toshiba
+Haswell;i5;16;224,1;Toshiba
+Kabylake;i5;4;474,7;HP
+Sandy Bridge;i5;4;246,4;HP
+Kabylake;i5;8;250;HP
+Haswell;i7;4;248,9;Toshiba
+Kabylake;i5;2;218,4;HP
+Haswell;i7;8;233,6;Apple
+Broadwell;i5;4;89;Dell
+Skylake;i3;8;226,8;HP
+Skylake;i5;4;490,4;HP
+Ivy Bridge;i5;4;486,2;Asus
+Haswell;i3;4;109,9;Apple
+Skylake;i5;8;240;Apple
+Sandy Bridge;i3;16;126,1;Apple
+Broadwell;i5;4;247;Toshiba
+Haswell;i5;2;509,6;Toshiba
+Skylake;i3;4;249,1;HP
+Skylake;i7;4;120;Dell
+Broadwell;i5;4;216,3;Dell
+Ivy Bridge;i5;8;997,6;Dell
+Broadwell;i3;8;495,4;HP
+Broadwell;i7;1;491,3;Acer
+Broadwell;i5;8;123,8;Apple
+Haswell;i5;1;485;Dell
+Haswell;i5;1;220,5;Toshiba
+Ivy Bridge;i5;4;497,5;Dell
+Ivy Bridge;i5;1;1022,5;Acer
+Haswell;i3;4;496,1;HP
+Broadwell;i5;1;252,9;Dell
+Kabylake;i3;4;502,2;HP
+Broadwell;i7;1;235,7;Toshiba
+Broadwell;i5;8;505,7;Dell
+Broadwell;i5;8;220,3;Dell
+Broadwell;i5;4;224,9;Dell
+Kabylake;i3;4;252,1;Asus
+Ivy Bridge;i5;4;241,9;Toshiba
+Haswell;i7;2;490,8;Lenovo
+Broadwell;i5;2;479,9;Acer
+Haswell;i3;4;226,4;Toshiba
+Skylake;i3;4;494,3;Dell
+Kabylake;i5;4;NA;Apple
+Broadwell;i5;2;233,2;Dell
+Ivy Bridge;i5;4;486,5;Acer
+Broadwell;i3;4;476,1;Dell
+Sandy Bridge;i5;4;496,7;Apple
+Broadwell;i5;8;234,2;Dell
+Haswell;i3;16;473,9;Apple
+Skylake;i5;16;NA;HP
+Sandy Bridge;i5;4;483,6;HP
+Broadwell;i3;4;474,8;HP
+Broadwell;i5;2;222;Dell
+Kabylake;i5;8;497;Dell
+Broadwell;i5;4;480,6;Apple
+Haswell;i5;8;244,9;HP
+Skylake;i3;4;226;Dell
+Sandy Bridge;i5;4;248,7;Acer
+Ivy Bridge;NA;8;222,9;HP
+Broadwell;i5;8;232;Lenovo
+Haswell;i5;16;127,5;Dell
+Skylake;i3;8;254,7;Medion
+Broadwell;i5;4;235,8;Apple
+Haswell;i5;8;233,2;Dell
+Skylake;i7;8;227,4;Toshiba
+Broadwell;i3;4;239;Acer
+Kabylake;i5;8;503,3;HP
+Ivy Bridge;i5;1;492,6;Lenovo
+Broadwell;i5;4;227,1;Acer
+Haswell;i5;2;90,7;Apple
+Haswell;i5;4;245,7;Dell
+Kabylake;i5;1;219,2;HP
+Broadwell;i5;8;244,5;Acer
+Broadwell;i5;8;1002,1;Asus
+NA;i5;4;218,4;Toshiba
+Sandy Bridge;i3;1;484,7;Dell
+Ivy Bridge;i5;8;217,8;Toshiba
+Broadwell;i5;1;250,3;Dell
+Broadwell;i5;2;493,5;Lenovo
+Skylake;i5;4;229,3;Lenovo
+Broadwell;i7;1;474,4;Lenovo
+Ivy Bridge;i5;16;498,4;HP
+Sandy Bridge;i7;4;218,2;Asus
+Sandy Bridge;i5;2;512;Dell
+Kabylake;i5;4;238,3;HP
+Skylake;i5;2;237,6;Acer
+Broadwell;i5;4;1006,5;HP
+Haswell;i3;4;120,4;HP
+Ivy Bridge;i7;2;503,3;Asus
+Kabylake;i3;16;510,6;Acer
+Broadwell;i7;4;498,1;Toshiba
+Broadwell;i5;4;222,9;Apple
+Kabylake;i3;2;228,8;HP
+Skylake;i5;4;508,1;Asus
+Sandy Bridge;i5;4;482,8;Asus
+Skylake;i7;4;244,3;Acer
+Kabylake;i5;2;89,1;Dell
+Haswell;i5;16;231,2;Acer
+Kabylake;i5;4;233,8;HP
+Haswell;i5;4;234,4;Dell
+Skylake;i5;4;113,8;Acer
+Broadwell;i5;4;90,7;Acer
+Broadwell;i5;8;482,5;Apple
+Kabylake;i3;16;218,9;Asus
+Sandy Bridge;i5;8;486;Apple
+Skylake;i5;8;476,5;Lenovo
+Kabylake;i3;4;243,4;HP
+Skylake;i5;16;507,5;Lenovo
+Broadwell;i5;8;501,2;HP
+Kabylake;i7;8;476,6;HP
+Sandy Bridge;i5;16;473,1;HP
+Kabylake;i3;2;1020,9;Toshiba
+Ivy Bridge;i7;2;475,9;Dell
+Broadwell;i5;4;241,2;HP
+Haswell;i5;16;242,2;HP
+Sandy Bridge;i5;4;247,5;Lenovo
+Haswell;i7;8;484,1;HP
+Broadwell;i3;2;218,5;Toshiba
+Kabylake;i3;16;244,4;Acer
+Ivy Bridge;i5;8;216,1;Dell
+Ivy Bridge;i3;8;250,2;HP
+Kabylake;i7;4;221,9;Apple
+Skylake;i5;16;232;Asus
+Kabylake;i5;16;474,7;Dell
+Broadwell;i3;4;222,5;Toshiba
+Broadwell;i5;8;482;HP
+Haswell;i5;4;230,8;Dell
+Broadwell;i5;4;507,6;Acer
+Skylake;i5;4;237,8;Toshiba
+Haswell;i3;8;223,8;HP
+Kabylake;i3;1;490,5;Apple
+Haswell;i5;4;251,2;Medion
+Ivy Bridge;i3;4;122,6;Acer
+Haswell;i5;4;498,4;Lenovo
+Kabylake;i7;16;217,4;Apple
+Haswell;i5;8;483;Asus
+Haswell;i5;4;498,4;Dell
+Skylake;i5;4;234,5;HP
+Skylake;i3;4;481,9;HP
+Broadwell;i3;16;499;HP
+Kabylake;i3;4;500,5;Apple
+Kabylake;i5;4;219,2;Acer
+Ivy Bridge;i5;4;500,6;Medion
+Skylake;i5;2;234,3;HP
+Broadwell;i5;1;NA;HP
+Haswell;i3;1;233,7;Acer
+Skylake;i5;4;503,8;HP
+Kabylake;i5;16;216,9;Toshiba
+Broadwell;i5;1;93,8;Toshiba
+Skylake;i5;8;236,2;Medion
+Haswell;i5;4;990,6;HP
+Kabylake;i7;4;500,5;HP
+Kabylake;i5;8;97,5;Dell
+Haswell;i5;2;233,8;Acer
+Sandy Bridge;i5;16;219,2;Toshiba
+Broadwell;i5;4;501,4;Asus
+Ivy Bridge;i5;16;505,4;HP
+Skylake;i3;16;505,5;Asus
+Haswell;i5;4;242;Asus
+Broadwell;i5;4;500,6;Asus
+Ivy Bridge;i7;8;491,5;Toshiba
+Ivy Bridge;i3;4;497,2;Dell
+Kabylake;i7;1;218,2;HP
+Broadwell;i3;2;102,4;Toshiba
+Skylake;i5;4;217,2;HP
+Ivy Bridge;i7;16;474,3;Apple
+Broadwell;i5;8;222,3;Dell
+Haswell;i3;8;488,9;Lenovo
+Skylake;i3;2;490,5;Dell
+Sandy Bridge;i3;4;229,3;Apple
+Skylake;i7;16;246,8;Toshiba
+Ivy Bridge;i5;1;482,9;Dell
+Skylake;i3;16;499,3;Medion
+Ivy Bridge;i7;16;95,2;Apple
+Haswell;i5;4;217,6;Toshiba
+Ivy Bridge;i5;8;1002,8;Dell
+Kabylake;i5;4;233,9;Toshiba
+Skylake;i3;1;236,7;Dell
+Broadwell;i5;2;218,8;Lenovo
+Skylake;i5;8;246,7;Lenovo
+Haswell;i5;16;478,7;Acer
+Haswell;i5;4;485,5;Acer
+Skylake;i5;2;226,3;Dell
+Kabylake;i5;4;255,1;HP
+Haswell;i3;4;246,2;Asus
+Skylake;i3;4;986,2;Acer
+Broadwell;i5;1;503,6;Toshiba
+Haswell;i5;4;498,1;Toshiba
+Sandy Bridge;i7;16;221,2;Dell
+Kabylake;i7;4;1013,9;Acer
+Ivy Bridge;i5;16;240,8;Acer
+Broadwell;i5;2;248,5;Asus
+Skylake;i7;8;249,8;Dell
+Skylake;i5;4;107,9;Dell
+Sandy Bridge;i3;2;223,6;Dell
+Broadwell;i5;2;223,5;Toshiba
+Broadwell;i7;4;491,3;Acer
+Haswell;i5;8;475,7;Asus
+Broadwell;i5;1;234,1;Medion
+Broadwell;i5;4;472,3;Dell
+Kabylake;i5;2;244,3;Dell
+Haswell;i3;4;113,1;Toshiba
+Skylake;i5;2;228,7;Acer
+Sandy Bridge;i7;4;500,3;Dell
+Sandy Bridge;i5;16;499,1;Apple
+Kabylake;i5;8;222,2;Apple
+Sandy Bridge;i3;2;993,6;Acer
+Broadwell;i5;4;92,3;Toshiba
+Haswell;i7;1;486,8;Toshiba
+Broadwell;i5;8;220,1;Asus
+Skylake;i5;8;481,2;Asus
+Broadwell;i3;8;125,3;Toshiba
+Sandy Bridge;i5;2;219,3;Asus
+Broadwell;i3;16;502,9;Acer
+Ivy Bridge;i5;NA;502,3;Apple
+Broadwell;i5;4;506,8;Toshiba
+Skylake;i5;1;243,5;Toshiba
+Broadwell;i7;4;477,7;HP
+Skylake;i5;8;222,9;Medion
+Broadwell;i5;8;1005,7;Medion
+Broadwell;i5;8;508;Dell
+Broadwell;i5;1;483,7;Acer
+Ivy Bridge;i5;4;490,2;HP
+Ivy Bridge;i3;16;504,9;Apple
+Kabylake;i3;8;504,3;Dell
+Broadwell;i5;8;243,1;Apple
+Haswell;i7;4;242,3;HP
+Kabylake;i5;4;239,7;Acer
+Sandy Bridge;i5;2;988,2;HP
+Kabylake;i5;4;250,5;HP
+Haswell;i5;4;125,1;Apple
+Broadwell;i5;8;221,7;Asus
+Haswell;i5;1;99;Apple
+Ivy Bridge;i3;8;478,1;HP
+Broadwell;i3;16;247,4;Lenovo
+Haswell;i5;16;1019,3;Apple
+Skylake;i5;4;994;Lenovo
+Haswell;i5;2;89,8;Asus
+Kabylake;i5;1;243,3;HP
+Kabylake;i5;8;485;Toshiba
+Skylake;i5;8;234,3;Toshiba
+Broadwell;i3;4;238,8;Acer
+Kabylake;i3;16;120,2;HP
+Broadwell;i3;8;241,4;Lenovo
+Broadwell;i5;4;224,5;Asus
+Broadwell;i5;4;477,2;Toshiba
+Haswell;i3;2;221,2;Asus
+Skylake;i3;4;224,7;Acer
+Sandy Bridge;i5;8;487;HP
+Haswell;i5;8;235,8;Dell
+Haswell;i5;16;479,5;Dell
+Haswell;i5;4;224,5;HP
+Kabylake;i5;4;255,4;Toshiba
+Skylake;i5;2;235,2;Medion
+Kabylake;i5;4;223,5;Asus
+Broadwell;i5;8;224,9;Toshiba
+Sandy Bridge;i5;4;1006,6;Toshiba
+Kabylake;i5;8;217,1;Acer
+Skylake;i5;1;231,5;HP
+Sandy Bridge;i3;8;110,6;Dell
+Skylake;i5;4;474,6;Dell
+Haswell;i5;8;119,9;HP
+Ivy Bridge;i5;16;511,9;Apple
+Haswell;i5;4;243,7;Toshiba
+Haswell;i5;1;245,5;Asus
+Haswell;i5;4;493;Dell
+Broadwell;i7;2;230,3;Toshiba
+Sandy Bridge;i5;2;90,9;Toshiba
+Broadwell;i5;8;217,4;Dell
+Haswell;i5;8;240;Toshiba
+Ivy Bridge;i5;4;489,7;Acer
+Kabylake;i5;4;503,3;Apple
+Ivy Bridge;i3;4;474,5;HP
+Broadwell;i5;16;254,8;Asus
+Skylake;i5;4;472,8;HP
+Haswell;i5;4;251;Lenovo
+Kabylake;i5;4;494,7;Lenovo
+Broadwell;i5;4;479,7;Dell
+Broadwell;i5;4;223,9;Dell
+Haswell;i5;16;990,7;Asus
+Skylake;i5;2;243,7;Dell
+Sandy Bridge;i5;8;230,6;Asus
+Sandy Bridge;i5;2;501,8;Lenovo
+Haswell;i5;8;238,5;HP
+Ivy Bridge;i3;1;235,6;Toshiba
+Kabylake;i5;4;242,1;Dell
+Broadwell;i5;16;245,2;Acer
+Broadwell;i5;4;105,6;Lenovo
+NA;i5;8;488,4;Acer
+Sandy Bridge;i3;4;231,3;Acer
+Ivy Bridge;i5;16;113;HP
+Haswell;i3;2;240,1;HP
+Skylake;i5;8;494,5;Dell
+Ivy Bridge;i3;4;986,5;Apple
+Broadwell;i3;8;121,5;Lenovo
+Broadwell;i5;4;252,6;Toshiba
+Haswell;i5;8;504,5;Lenovo
+Kabylake;i5;2;89,1;Acer
+Kabylake;i5;4;217,4;Medion
+Skylake;i5;4;511,7;HP
+Ivy Bridge;i5;4;496,8;Apple
+Broadwell;i5;2;222,3;Dell
+Broadwell;i5;16;237,5;Dell
+Sandy Bridge;i5;16;112,6;Lenovo
+Broadwell;i3;8;248,9;Asus
+Skylake;i5;8;506,9;HP
+Skylake;i5;8;242;HP
+Haswell;i3;8;473,5;Acer
+Ivy Bridge;i5;4;493,4;Acer
+Broadwell;NA;1;239,1;Acer
+Skylake;i3;8;248,4;Dell
+Skylake;i5;2;108,6;Acer
+Broadwell;i5;4;228,8;Medion
+Kabylake;i5;4;243,6;HP
+Skylake;i5;2;224,3;Dell
+Ivy Bridge;i5;4;1013,3;Lenovo
+Kabylake;NA;4;502,7;HP
+Haswell;i5;4;480;Apple
+Skylake;i5;16;485,2;HP
+Haswell;i5;8;237,3;Medion
+Skylake;i3;8;253,6;Acer
+Broadwell;i3;8;119,2;Dell
+Broadwell;i5;8;252,6;Dell
+Skylake;i3;4;488,6;Dell
+Haswell;i5;2;485,3;Acer
+Ivy Bridge;i7;8;248,9;Dell
+Broadwell;i3;8;221;Acer
+Broadwell;i3;4;482,4;Lenovo
+Ivy Bridge;i5;16;114,6;Dell
+Broadwell;i5;4;485,1;HP
+Broadwell;i5;16;239,4;HP
+Sandy Bridge;i5;16;234,4;Lenovo
+Haswell;i5;4;101,9;HP
+Ivy Bridge;i5;2;252,3;Lenovo
+Ivy Bridge;i3;4;218,8;HP
+Ivy Bridge;i5;8;232,7;HP
+Haswell;i3;16;222,4;Toshiba
+Kabylake;i3;8;97,9;Dell
+Haswell;i5;4;506;Acer
+Broadwell;i5;8;239,7;Dell
+Haswell;i5;16;219,1;HP
+Sandy Bridge;i5;2;487,7;Toshiba
+Broadwell;i5;4;474,7;HP
+Haswell;i3;16;216,8;Dell
+Kabylake;i5;4;496,8;Toshiba
+Haswell;i5;4;476,6;Acer
+Haswell;i3;2;252,4;Dell
+Kabylake;i5;1;253,7;Toshiba
+Broadwell;i5;8;120,1;Dell
+Broadwell;i5;4;227,2;HP
+Ivy Bridge;i5;4;240,2;Dell
+Broadwell;i3;4;484;HP
+Haswell;i3;16;241,7;Dell
+Broadwell;i3;4;251,9;Toshiba
+Skylake;NA;4;482,7;HP
+Broadwell;i5;4;116,6;HP
+Haswell;i5;8;500,8;HP
+Haswell;i5;4;494,8;HP
+Ivy Bridge;i5;4;236,7;Dell
+Ivy Bridge;i7;4;248,3;Acer
+Skylake;i5;16;482,9;HP
+Haswell;i5;8;479,7;Asus
+Broadwell;i5;4;494,6;HP
+Skylake;i7;1;245;HP
+Broadwell;i5;2;501,3;Toshiba
+Ivy Bridge;i5;8;480,6;Toshiba
+Haswell;i3;4;218,7;Lenovo
+Broadwell;i3;4;504,4;Medion
+Kabylake;i5;4;505,4;Dell
+Haswell;i5;4;511,5;Lenovo
+Kabylake;i7;8;497,1;HP
+Skylake;i5;8;488,9;HP
+Skylake;i5;16;479,8;HP
+Kabylake;i5;16;232,6;Asus
+Haswell;i5;2;253,1;HP
+Broadwell;i5;4;234,5;Dell
+Ivy Bridge;i5;4;219,8;Acer
+Sandy Bridge;i3;2;511,6;Dell
+Haswell;i5;4;476,8;Lenovo
+Broadwell;i5;16;255,4;Dell
+Sandy Bridge;i5;2;120,1;Medion
+Haswell;i3;8;492,4;Acer
+Haswell;i7;1;985,3;Acer
+Skylake;i7;4;242;Toshiba
+Broadwell;i7;16;488,1;HP
+Ivy Bridge;i7;8;223,8;HP
+Skylake;i5;4;485,2;HP
+Skylake;i5;4;226,1;Acer
+Ivy Bridge;i3;16;233,5;Dell
+Kabylake;i5;4;250,7;HP
+Ivy Bridge;i5;4;495,3;Lenovo
+Sandy Bridge;i5;4;480,6;Apple
+Kabylake;i3;4;249,4;Acer
+Skylake;i7;8;223,4;Asus
+Ivy Bridge;i3;8;996,9;Lenovo
+Broadwell;i7;2;250,6;Asus
+Haswell;i3;4;221,4;HP
+Ivy Bridge;i5;2;482,5;HP
+Kabylake;i5;16;246,2;Asus
+NA;i5;8;478,1;Apple
+Skylake;i5;16;485,5;Dell
+Kabylake;i5;4;253;Dell
+Broadwell;i3;4;253,8;HP
+Skylake;i3;16;482,7;Dell
+Haswell;i3;8;222,2;Asus
+Haswell;i5;2;476,1;Lenovo
+Ivy Bridge;i7;4;105,3;Apple
+Broadwell;i5;4;233,8;HP
+Skylake;i5;8;1023,8;Toshiba
+Haswell;i5;4;240;HP
+Skylake;i5;4;504,2;HP
+Broadwell;i3;4;472,7;Lenovo
+Broadwell;i5;8;218,6;Acer
+Haswell;i3;16;479,4;Dell
+Broadwell;i3;4;219;Asus
+Haswell;i3;4;488,7;Lenovo
+Haswell;i5;16;491;Toshiba
+Broadwell;i3;8;232,9;Toshiba
+Broadwell;i3;2;244,5;Dell
+Ivy Bridge;i5;8;474,9;HP
+Kabylake;i5;4;227,9;Toshiba
+Kabylake;i7;1;510,8;Acer
+Broadwell;i3;8;232,4;Acer
+Ivy Bridge;i5;2;483;Asus
+Skylake;i7;2;253,3;HP
+Sandy Bridge;i5;4;995,8;Apple
+Haswell;i5;4;245,9;Lenovo
+Kabylake;i7;2;493,8;Toshiba
+Haswell;i7;2;253,6;Toshiba
+Ivy Bridge;i5;2;481,7;Apple
+Skylake;i5;1;510,6;Acer
+Ivy Bridge;i5;16;484,2;Acer
+Kabylake;i3;2;229,1;Toshiba
+Broadwell;i5;4;248,6;Dell
+Haswell;i7;4;221,3;Lenovo
+Skylake;i5;16;225,4;HP
+Skylake;i5;8;225,4;Lenovo
+Broadwell;i5;8;248,5;Lenovo
+Haswell;i3;4;250,2;Dell
+Haswell;i5;8;121,3;HP
+Broadwell;i3;4;90,2;Toshiba
+Broadwell;i3;2;227,5;Apple
+Kabylake;i5;2;220,4;Toshiba
+Broadwell;i5;1;239,5;Toshiba
+NA;i5;4;506,2;Dell
+Broadwell;i5;4;107,8;Lenovo
+Skylake;i5;8;126,2;Asus
+Haswell;i5;2;243,3;Lenovo
+Broadwell;i5;8;502,1;Toshiba
+Ivy Bridge;i5;16;1022,1;Toshiba
+Broadwell;i5;8;230;HP
+Sandy Bridge;i5;4;501,3;Acer
+Ivy Bridge;i5;4;232,1;Medion
+Ivy Bridge;i5;8;488,5;Acer
+Kabylake;i3;2;250,1;Toshiba
+Broadwell;i5;4;219,7;Lenovo
+Sandy Bridge;i5;4;500,9;Acer
+Haswell;i7;4;502,2;Toshiba
+Broadwell;i5;1;479;Asus
+Haswell;i3;8;481,7;Dell
+Ivy Bridge;i5;2;249,2;Toshiba
+Broadwell;i7;4;230,8;HP
+Kabylake;i5;8;493;HP
+Skylake;i5;4;506,6;Acer
+Haswell;i3;4;237,7;Asus
+Skylake;i5;8;505,1;HP
+Broadwell;i5;1;242,8;Dell
+Haswell;i5;8;239,3;Dell
+Haswell;i7;16;229,2;Lenovo
+Kabylake;i5;4;254,6;Lenovo
+Sandy Bridge;i3;2;475,3;HP
+Kabylake;i5;4;242,7;Lenovo
+NA;i5;4;501,5;Toshiba
+Broadwell;i5;16;227,8;Apple
+Skylake;i5;16;476,6;Toshiba
+Broadwell;i5;8;240,2;Dell
+Sandy Bridge;i5;1;255;Dell
+Broadwell;i5;2;217,3;Lenovo
+Skylake;i3;8;242,5;Asus
+Broadwell;i5;16;220,9;Acer
+Skylake;i5;4;235,1;Toshiba
+Broadwell;i3;1;500,7;Acer
+Skylake;i5;4;476,2;Lenovo
+Broadwell;i5;1;489;Acer
+Kabylake;i5;4;232,9;Acer
+Haswell;i3;8;484,8;Dell
+Ivy Bridge;i5;16;246,4;Toshiba
+Skylake;i5;1;483,8;Dell
+Haswell;i5;2;252,4;Apple
+Broadwell;i5;2;252,8;HP
+Kabylake;i5;8;217,6;Apple
+Skylake;i7;1;242,2;Medion
+Skylake;i5;2;501,5;HP
+Haswell;i5;4;223,4;Medion
+Kabylake;i3;2;237,8;Dell
+Broadwell;i5;4;252,3;HP
+Kabylake;i5;4;248,9;Lenovo
+Kabylake;i5;2;498,5;Asus
+Broadwell;i3;16;223,2;HP
+Skylake;i3;4;497,6;Acer
+Kabylake;i5;16;1021,1;Acer
+Broadwell;i5;8;252,5;Dell
+Broadwell;i5;1;225,2;HP
+Broadwell;i7;4;251,4;Lenovo
+Skylake;i5;4;497,3;Apple
+Ivy Bridge;i5;4;498,3;HP
+Broadwell;i7;8;484,1;Lenovo
+Kabylake;i3;1;507,6;Toshiba
+Haswell;i3;8;504,3;HP
+Skylake;i5;16;226,1;HP
+Haswell;i5;8;244,1;Toshiba
+Haswell;i5;2;227,3;Dell
+Kabylake;i5;16;243;Toshiba
+Skylake;i5;4;227;Asus
+Broadwell;i5;2;508,8;Acer
+Skylake;i3;8;1020,9;Apple
+Kabylake;i5;1;494,6;HP
+Kabylake;i3;2;475,2;Lenovo
+Broadwell;i5;4;219,1;Acer
+Broadwell;i3;2;494,3;Apple
+Haswell;i5;8;228,4;Dell
+Sandy Bridge;i3;2;92,4;Lenovo
+Kabylake;i3;2;501,2;HP
+Skylake;i5;4;252,1;Toshiba
+Ivy Bridge;i5;8;222,5;Lenovo
+Broadwell;i3;4;230;HP
+Kabylake;i3;2;245;Apple
+Broadwell;i5;4;242,5;Toshiba
+Kabylake;i5;8;503,1;Apple
+Broadwell;i5;4;232,7;Apple
+Haswell;i7;2;234,5;Dell
+Broadwell;i5;8;233,5;HP
+Kabylake;i3;2;480,3;Dell
+Kabylake;i5;16;501,8;Acer
+Kabylake;i3;8;245,9;NA
+Haswell;i3;4;509,7;Acer
+Skylake;i5;4;120,2;Toshiba
+Sandy Bridge;i3;16;234,3;Acer
+Skylake;i5;16;224,4;HP
+Kabylake;i3;8;496,8;Dell
+Haswell;i5;8;248,7;Asus
+Skylake;i5;16;475,7;HP
+Broadwell;i5;2;504,5;HP
+Broadwell;i3;2;497,9;Toshiba
+Broadwell;i5;8;493,5;Medion
+Sandy Bridge;i5;4;NA;Apple
+Skylake;i5;4;254,3;Toshiba
+Broadwell;i3;4;508;Acer
+Kabylake;i5;1;510,6;Dell
+Skylake;i5;16;231,8;HP
+Skylake;i5;8;486,1;HP
+Skylake;i3;4;233,5;Toshiba
+Skylake;i5;2;509,4;Dell
+Broadwell;i3;4;499,2;Apple
+Kabylake;i5;8;120,5;HP
+Ivy Bridge;i3;1;239,3;Dell
+Kabylake;i5;4;501,5;Apple
+Broadwell;i3;4;NA;Asus
+Broadwell;i5;4;235,6;HP
+Sandy Bridge;i5;4;226,6;Asus
+Skylake;i7;8;221,8;Toshiba
+Haswell;i3;2;234;Acer

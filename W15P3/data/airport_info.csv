@@ -1,0 +1,21 @@
+Column Name	Description
+date	Year and month, in the format YYYY-M (e.g., 2018-1)
+carrier	The two character designator for the carrier/airline.
+carrier_name	The full name of the carrier/airline.
+airport	The three character designator for the arrival airport.
+airport_name	The full name of the arrival airport.
+arr_flights	The total number of arriving flights for the carrier-airport pair for the month specified.
+arr_del15	The number of arriving flights that were delayed. Delayed is when a flight arrives more than 15 minutes later than the scheduled arrival time.
+carrier_ct	The number of arriving flights delayed due to a carrier issue.
+weather_ct	The number of arriving flights delayed due to a weather issue.
+nas_ct	The number of arriving flights delayed due to a national air system issue.
+security_ct	The number of arriving flights delayed due to a security issue.
+late_aircraft_ct	The number of arriving flights delayed due to an earlier late arrival of an aircraft.
+arr_cancelled	The number of cancelled flights.
+arr_diverted	The number of diverted flights.
+arr_delay	The total number of delayed minutes due to delays.
+carrier_delay	The total number of delayed minutes due to carrier issues.
+weather_delay	The total number of delayed minutes due to weather issues.
+nas_delay	The total number of delayed minutes due to national air system issues.
+security_delay	The total number of delayed minutes due to security issues.
+late_aircraft_delay	The total number of delayed minutes due to earlier later arrival of aircraft.

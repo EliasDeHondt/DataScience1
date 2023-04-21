@@ -1,0 +1,202 @@
+# deze spread-sheet bevat gegevens over het gebruik van breedband internet in het Groot-Brittanië
+streek,gem sync speed,percentage huizen broadband minder dan 2Mbit/s,percentage supersnel internet (>24Mbit/s),percentage dat broadband heeft tov huizen
+City of Bristol,"9,9","4,5",90,71
+City of Edinburgh,"10,1","4,5",82,69
+Southend-on-Sea,"9,3","5,8",77,68
+West Dunbartonshire,"9,5","6,5",89,61
+Liverpool District,"9,5","6,6",77,59
+North East Lincolnshire,"9,1","6,7",90,60
+City of Wolverhampton District,"9,1","6,9",93,60
+Inverclyde,"8,6",7,69,58
+Torbay,"8,6",7,42,65
+Blackpool,"9,5","7,1",63,61
+City of Kingston upon Hull,"Unknown","7,2",0,50
+East Dunbartonshire,9,"7,7",77,73
+Dundee City,"9,3","7,8",88,61
+East Renfrewshire,"8,6","7,8",86,78
+London,"8,8","7,9",85,78
+Bournemouth,9,8,79,68
+The City of Brighton and Hove,"9,3",8,92,80
+City of Nottingham,"9,1","8,2",88,62
+Salford District,"9,1","8,2",75,59
+Birmingham District,"8,9","8,3",86,64
+City of Leicester,"8,8","8,3",89,65
+Reading,"8,9","8,3",98,77
+Sefton District,"8,8","8,3",68,65
+Stockport District,"8,8","8,3",94,67
+Belfast,"8,9","8,4",97,60
+Newcastle upon Tyne District,"8,8","8,6",63,64
+Dudley District,"8,5","8,8",92,62
+Gateshead District,"8,8","8,9",68,61
+Falkirk,"8,4","9,2",81,69
+Sandwell District,"8,7","9,2",78,55
+Trafford District,"8,5","9,4",87,72
+Middlesbrough,9,"9,6",91,58
+Coventry District,"8,3","9,7",66,65
+Wirral District,"8,3","9,9",60,65
+Glasgow City,"8,9",10,59,58
+Solihull District,"8,3",10,89,68
+Redcar and Cleveland,"8,6","10,1",87,62
+Telford and Wrekin,"8,3","10,1",75,67
+City of Portsmouth,"8,9","10,2",95,67
+City of Plymouth,"8,7","10,3",88,69
+City of Southampton,8,"10,3",46,67
+Tameside District,"7,7","10,5",86,61
+Walsall District,"8,2","10,6",87,58
+Manchester District,"8,2","10,7",78,63
+Renfrewshire,"84","10,7",68,64
+Bradford District,"8,3","10,8",81,62
+City of Derby,"8,4","11,1",89,65
+Wigan District,"8,6","11,1",87,63
+East Lothian,"7,1","11,4",0,68
+Bolton District,"8,2","11,9",83,64
+Aberdeen City,"7,4","12,2",0,74
+Poole,8,"12,3",78,71
+Isle of Wight,"7,3","12,4",0,64
+North Tyneside District,"8,1","12,5",59,65
+Angus,"7,1","12,6",14,65
+Swansea,"8,2","12,6",68,63
+North Ayrshire,"7,3","12,9",0,58
+Swindon,"7,6","13,1",87,71
+Blackburn with Darwen,"Unknown","13,2",62,63
+West Sussex County,"7,3","13,3",42,73
+Bury District,"7,1","13,4",90,64
+North Somerset,7,"13,4",48,72
+Perth and Kinross,"6,9","13,4",33,67
+South Gloucestershire,8,"13,4",75,72
+City of Stoke-on-Trent,"7,6","13,5",78,58
+York,"7,1","13,5",59,70
+East Riding of Yorkshire,"7,9","13,6",0,61
+Argyll and Bute,6,"13,7",0,63
+Blaenau Gwent,"7,5","13,7",0,54
+Surrey County,"7,4","13,7",77,78
+West Lothian,"7,5","13,7",45,70
+Central Bedfordshire,"7,5","13,8",67,73
+Medway,"8,2","13,8",77,70
+Fife,7,14,48,65
+Hertfordshire County,"7,7","14,1",85,76
+Leeds District,"7,9","14,1",82,64
+South Tyneside District,"8,2","14,2",77,57
+Stockton-on-Tees,"8,3","14,2",84,64
+West Berkshire,"6,9","14,2",63,77
+Leicestershire County,"7,4","14,3",64,70
+Thurrock,8,"14,3",75,71
+Wiltshire,"6,8","14,4",43,74
+Darlington,"7,8","14,5",83,62
+Oxfordshire County,7,"14,5",62,75
+The Vale of Glamorgan,"7,5","14,6",63,70
+Scottish Borders,"5,9","14,7",0,63
+"St, Helens District",8,"14,7",83,63
+Lancashire County,"7,4","14,8",39,66
+Nottinghamshire County,"7,7","14,8",65,67
+South Ayrshire,"6,4","14,8",0,62
+Denbighshire,"6,7","14,9",0,67
+Northamptonshire County,"7,2","14,9",59,71
+Dumfries and Galloway,"6,1",15,0,59
+Aberdeenshire,"6,1","15,2",0,72
+Bath and North East Somerset,"7,2","15,2",77,76
+South Lanarkshire,"7,7","15,2",59,65
+Hampshire County,"7,2","15,3",68,75
+Newport,"7,5","15,3",65,64
+East Sussex County,"6,7","15,6",3,71
+Rotherham District,"7,2","15,6",55,61
+Cambridgeshire County,"7,2","15,8",53,74
+Neath Port Talbot,"7,6","15,9",58,60
+Cardiff,"7,8",16,89,68
+Doncaster District,"7,2",16,55,61
+Moray,"5,7","16,2",0,67
+Luton,"81","16,3",100,68
+Stirling,"6,4","16,3",0,69
+Sheffield District,"7,2","16,4",70,61
+Calderdale District,"6,8","16,6",56,61
+Warrington,"7,5","16,7",76,70
+Monmouthshire,"6,1","16,8",16,69
+North Lanarkshire,"7,9","16,8",68,63
+Buckinghamshire County,"6,4","Onbekend",67,78
+Cheshire East,"6,7","16,9",67,71
+Essex County,"6,8","16,9",50,72
+Cheshire West and Chester,"6,7",17,43,70
+Kirklees District,7,17,57,63
+Knowsley District,"7,8","17,1",76,62
+North Yorkshire County,"6,6","17,1",15,68
+Ards,"6,4","17,2",97,64
+Devon County,"6,4","17,2",17,69
+Highland,"5,7","17,2",0,66
+Lincolnshire County,"6,5","17,2",23,66
+Kent County,"6,8","17,3",41,70
+Gloucestershire County,"6,6","17,6",35,70
+Norfolk County,"6,4","17,6",28,66
+Somerset County,6,"17,7",4,70
+Dorset County,"6,2","17,9",9,69
+Castlereagh,"7,1",18,97,63
+Sunderland District,"6,9",18,55,60
+Cornwall,"6,5","18,1",10,67
+Warwickshire County,"6,8","18,1",66,70
+City of Peterborough,"7,2","18,2",76,68
+Staffordshire County,"67","18,2",47,66
+Hartlepool,"7,9","18,3",88,57
+Rochdale District,"6,9","18,4",58,62
+Bedford,"7,1","18,5",80,73
+Oldham District,7,"18,5",88,59
+Conwy,"5,7","18,6",0,60
+Barnsley District,"6,9","18,7",72,59
+Coleraine,"5,7","18,8",98,51
+Northumberland,"6,3","18,9",9,66
+Shropshire,"5,8","18,9",3,67
+Wokingham,7,"18,9",82,78
+Worcestershire County,"6,1",19,59,70
+Halton,"7,4","19,1",66,65
+Wrexham,"5,9","19,1",0,64
+Derbyshire County,"6,2","19,5",38,63
+Newtownabbey,"7,2","19,8",100,68
+Suffolk County,"6,3","19,8",29,69
+Shetland Islands,"5,5","19,9",0,71
+Wakefield District,"6,8",20,54,62
+County Durham,"6,3","20,2",22,60
+Gwynedd,"5,4","20,3",0,57
+Derry,"6,5","20,5",97,56
+Midlothian,6,21,20,67
+Cumbria County,"6,1","21,1",0,63
+Powys,"5,3","21,2",0,62
+Flintshire,"5,7","21,5",22,68
+Bridgend,"6,3","21,6",33,65
+Orkney Islands,"5,4","21,6",0,65
+Torfaen,"5,8","21,7",27,63
+North Lincolnshire,"6,6","21,8",41,63
+East Ayrshire,"5,8","21,9",0,60
+Isle of Anglesey,"5,4","21,9",0,60
+Merthyr Tydfil,6,"21,9",0,55
+Rutland,"Unknown","22,1",0,74
+Rhondda Cynon Taff,"6,4","22,7",27,60
+Slough,"6,4","22,7",98,68
+Na H-Eileanan an Iar,"5,1",23,0,46
+County of Herefordshire,5,"23,8",0,"Niet gekend"
+Down,"5,4","23,8",93,58
+Moyle,"5,2","24,3",93,47
+Antrim,"5,8","24,4",98,64
+Windsor and Maidenhead,"5,6","24,4",94,78
+Banbridge,"6,1","24,7",90,61
+Isles of Scilly,"4,5","24,8",0,66
+Bracknell Forest,"6,1","24,9",84,77
+Caerphilly,6,25,33,61
+Ceredigion,"4,8","25,3",0,61
+Pembrokeshire,"4,8","25,5",0,60
+Carmarthenshire,"5,3","25,6",0,60
+North Down,"5,4","26,1",98,64
+Strabane,"5,8","26,1",99,52
+Craigavon,"5,6","26,5",98,61
+Magherafelt,5,"Onbekend",93,59
+Ballymena,"5,2","26,8",97,60
+Ballymoney,"5,8","26,9",88,59
+Clackmannanshire,"5,6","27,8",0,65
+Larne,"5,6","27,8",90,58
+Carrickfergus,"5,4","28,2",99,60
+Lisburn,"5,4","28,8",97,64
+Limavady,"6,2","29,5",98,55
+Milton Keynes,"5,5","29,7",90,78
+Newry and Mourne,"5,3","29,7",94,56
+Armagh,"5,3","30,2",NA,58
+Omagh,"5,5","31,9",99,56
+Fermanagh,"4,3","32,9",96,60
+Dungannon,"4,7","33,2",97,57
+Cookstown,"4,4","35,9",98,57
