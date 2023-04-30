@@ -1,5 +1,6 @@
-import numpy as np
+import math
 import pandas as pd
+from pandas import Series
 
 """
  * @author Elias De Hondt
