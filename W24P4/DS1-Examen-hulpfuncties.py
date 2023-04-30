@@ -23,26 +23,25 @@ import numpy as np
 # Niet-lineaire regressie (exponentieel)
 
 
-def correlatiecoefficient(df: pd.DataFrame) -> float:
-    from scipy.stats import pearsonr
+def correlatiecoëfficiënt(df: pd.DataFrame) -> float:
 
-    corr = pearsonr(df.iloc[:, 0], df.iloc[:, 1])
-    return float(corr)
+    corr = df.corr().iloc[1:, 0].values[0]
+    return corr
 
 
-def rangcorrelatiecoefficientKendall(df: pd.DataFrame) -> float:
+def rangcorrelatiecoëfficiëntKendall(df: pd.DataFrame) -> float:
     from IPython import InteractiveShell
 
     InteractiveShell.ast_node_interactivity = 'all'
-    corr = df.corr(method='kendall').iloc[1:, 0]
+    corr = df.corr(method='kendall').iloc[1:, 0].values[0]
     return float(corr)
 
 
-def rangcorrelatiecoefficientSpearman(df: pd.DataFrame) -> float:
+def rangcorrelatiecoëfficiëntSpearman(df: pd.DataFrame) -> float:
     from IPython import InteractiveShell
 
     InteractiveShell.ast_node_interactivity = 'all'
-    corr = df.corr(method='spearman').iloc[1:, 0]
+    corr = df.corr(method='spearman').iloc[1:, 0].values[0]
     return float(corr)
 
 
@@ -83,10 +82,9 @@ def standaardschattingsfout(df: pd.DataFrame) -> float:
     from sklearn.linear_model import LinearRegression
 
     model = LinearRegression()
-    # X = linkedin[['connecties']]
-    # y = linkedin.loon
-    X = df.iloc[:, 0] # Onafhankelijke (x)
-    y = df.iloc[:, 1] # Afhankelijke variabele (y)
+    X = df[['connecties']] # Onafhankelijke (x)
+    y = df.loon # Afhankelijke variabele (y)
+
     model.fit(X, y)
     y_hat = model.predict(X) # voorspellingen maken
     standaardschattingsfout = mean_squared_error(y, y_hat, squared=False)
@@ -98,10 +96,9 @@ def kwadraatVanCorrelatiecoefficient(df: pd.DataFrame) -> float: # Verklaarde va
     from sklearn.linear_model import LinearRegression
 
     model = LinearRegression()
-    # X = linkedin[['connecties']]
-    # y = linkedin.loon
-    X = df.iloc[:, 0] # Onafhankelijke (x)
-    y = df.iloc[:, 1] # Afhankelijke variabele (y)
+    X = df[['connecties']] # Onafhankelijke (x)
+    y = df.loon # Afhankelijke variabele (y)
+
     model.fit(X, y)
     y_hat = model.predict(X) # voorspellingen maken
 
@@ -118,8 +115,9 @@ def kwadratisch(df: pd.DataFrame) -> float:
     from sklearn.linear_model import LinearRegression
 
     model = make_pipeline(PolynomialFeatures(2), LinearRegression())
-    X = df.iloc[:, 0] # Onafhankelijke (x)
-    y = df.iloc[:, 1] # Afhankelijke variabele (y)
+    X = df[['connecties']] # Onafhankelijke (x)
+    y = df.loon # Afhankelijke variabele (y)
+
     model.fit(X, y)
     kwadratisch = model.score(X, y)
 
@@ -132,8 +130,9 @@ def kubisch(df: pd.DataFrame) -> float:
     from sklearn.linear_model import LinearRegression
 
     model = make_pipeline(PolynomialFeatures(3), LinearRegression())
-    X = df.iloc[:, 0] # Onafhankelijke (x)
-    y = df.iloc[:, 1] # Afhankelijke variabele (y)
+    X = df[['connecties']] # Onafhankelijke (x)
+    y = df.loon # Afhankelijke variabele (y)
+
     model.fit(X, y)
     kubisch = model.score(X, y)
 
@@ -145,8 +144,9 @@ def logaritmisch(df: pd.DataFrame) -> float:
     from sklearn.metrics import r2_score
 
     model = LinearRegression()
-    X = df.iloc[:, 0] # Onafhankelijke (x)
-    y = df.iloc[:, 1] # Afhankelijke variabele (y)
+    X = df[['connecties']] # Onafhankelijke (x)
+    y = df.loon # Afhankelijke variabele (y)
+
     # X moet logaritmisch gemaakt worden
     model.fit(np.log(X), y)
 
@@ -162,8 +162,9 @@ def exponentieel(df: pd.DataFrame) -> float:
     from sklearn.metrics import r2_score
 
     model = LinearRegression()
-    X = df.iloc[:, 0] # Onafhankelijke (x)
-    y = df.iloc[:, 1] # Afhankelijke variabele (y)
+    X = df[['connecties']] # Onafhankelijke (x)
+    y = df.loon # Afhankelijke variabele (y)
+
     # y moet logaritmisch gemaakt worden
     model.fit(X, np.log(y))
 
@@ -172,3 +173,23 @@ def exponentieel(df: pd.DataFrame) -> float:
     exponentieel = r2_score(y, y_hat)
 
     return float(exponentieel)
+
+
+def printAll(df: pd.DataFrame):
+    print("Correlatiecoefficient ->", correlatiecoëfficiënt(df))
+    print("Rangcorrelatiecoefficient (Kendall) ->", rangcorrelatiecoëfficiëntKendall(df))
+    print("Rangcorrelatiecoefficient (Spearman) ->", rangcorrelatiecoëfficiëntSpearman(df))
+    print("Lineare regressie (model) ->", lineareRegressie(df))
+    print("Lineare regressie (Coef) ->", coef(df))
+    print("Lineare regressie (Intercept) ->", intercept(df))
+    print("Standaardschattingsfout ->", standaardschattingsfout(df))
+    print("Kwadraat van correlatiecoëfficiënt ->", kwadraatVanCorrelatiecoefficient(df))
+    print("Niet-lineaire regressie (kwadratisch) ->", kwadratisch(df))
+    print("Niet-lineaire regressie (kubisch) ->", kubisch(df))
+    print("Niet-lineaire regressie (logaritmisch) ->", logaritmisch(df))
+    print("Niet-lineaire regressie (exponentieel) ->", exponentieel(df))
+
+
+# Hier staat wat code om de functies te testen.
+linkedin = pd.read_csv('data/testDataVoorHulpfuncties.csv')
+printAll(linkedin)
