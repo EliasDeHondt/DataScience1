@@ -188,7 +188,7 @@ def printAll(df: pd.DataFrame):
     print("Voorspelling (Moving Average) ->", moving_average(df['loon']), m=4)
     print("Voorspelling (Linear Combination) ->", linear_combination(df['loon']))
     print("Find Period ->", find_period(df['loon']))
-    # print("seizoen Component ->", seizoen_component(df['loon']))
+    # print("Seizoen Component ->", seizoen_component(df['loon']))
 
 
 # Hier staat wat code om de functies te testen.
