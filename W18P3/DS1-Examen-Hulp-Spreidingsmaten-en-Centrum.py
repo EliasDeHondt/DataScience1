@@ -64,7 +64,7 @@ def median_categorical(series: pd.Series):
     """
     import math
 
-    d = data.dropna()
+    d = series.dropna()
     n = len(d)
     middle = math.floor(n / 2)
     medianCategorical = d.sort_values().reset_index(drop=True)[middle]
@@ -92,7 +92,7 @@ def modeN(series: pd.Series) -> float:
     """
     mode = series.mode()
     # print("ModeN ->", round(modeN(series),2))
-    return float(mode)
+    return mode
 
 
 def modeK(series: pd.Series) -> float:
@@ -116,7 +116,7 @@ def modeK(series: pd.Series) -> float:
     """
     mode = series.value_counts().sort_index().head(1)
     # print("ModeK ->", round(modeK(series),2))
-    return float(mode)
+    return mode
 
 
 def gemiddeldeRekenkundig(series: pd.Series) -> float:

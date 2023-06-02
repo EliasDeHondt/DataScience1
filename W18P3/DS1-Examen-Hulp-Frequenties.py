@@ -58,7 +58,8 @@ def intervallenSturges(series: pd.Series) -> Series:
 
 def intervallenScott(series: pd.Series) -> Series:
     import statistics as stat
-
+    
+    n = len(series)
     b = 3.5 * stat.stdev(series) / (n ** (1 / 3))
     scott = math.ceil((max(series) - min(series)) / b)
     return scott

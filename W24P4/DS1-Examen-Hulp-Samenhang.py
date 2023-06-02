@@ -1,12 +1,15 @@
 import pandas as pd
 import numpy as np
 
+# Samenhang
 
 """
  * @author Elias De Hondt
  * @see https://eliasdh.com
  * @version 1.0v
 """
+
+# Index:
 
 # Correlatiecoefficient
 # Rangcorrelatiecoefficient (Kendall)
@@ -21,7 +24,6 @@ import numpy as np
 # Niet-lineaire regressie (kubisch)
 # Niet-lineaire regressie (logaritmisch)
 # Niet-lineaire regressie (exponentieel)
-
 
 def correlatiecoëfficiënt(df: pd.DataFrame) -> float:
 
