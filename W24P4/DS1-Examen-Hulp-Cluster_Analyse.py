@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 # Cluster Analyse
 
@@ -16,6 +15,11 @@ import numpy as np
 # Seuclidean Afstanden
 # Cityblock Afstanden
 # K-Means
+# Single Linkage
+# Complete Linkage
+# Hierarchical Clustering
+
+# Extra informatie.
 
 def euclidische_afstanden(series: pd.Series):
     """
@@ -116,14 +120,15 @@ def Complete_Linkage(df: pd.DataFrame):
     return distances_Complete
 
 
-def kMeans(df: pd.DataFrame):
+def Hierarchische_clusters(df: pd.DataFrame):
     """
-
+    Deze functie genereert een dendrogram met behulp van single linkage clustering op basis van de euclidische afstanden
+    tussen punten in de gegeven dataset die is opgeslagen in een pandas DataFrame df.
 
     Voorbeeld:
     ----------
-    >>>
-    >>>
+    >>> Hierarchische_clusters(simpsons)
+    >>> plt.show()
     """
     from matplotlib import pyplot as plt
     import matplotlib
@@ -142,6 +147,28 @@ def kMeans(df: pd.DataFrame):
     _ = ax.set_ylabel('Euclidische afstand')
     _ = ax.grid(linestyle='--', axis='y')
 
-    dgram = dendrogram(distances_single, labels=afstanden_euclidische.index.values, link_color_func=lambda x: colors[x], ax=ax)
+    dgram = dendrogram(distances_single,
+                       labels=afstanden_euclidische.index.values,
+                       link_color_func=lambda x: colors[x],
+                       ax=ax)
 
-    return
+    return dgram
+
+# Extra informatie.
+"""
+    Single Linkage (enkelvoudige koppeling): De afstand tussen twee clusters wordt bepaald door de kleinste 
+    afstand tussen een punt in het ene cluster en een punt in het andere cluster. 
+    Deze methode neigt ertoe langgerekte clusters te vormen.
+    
+    Complete Linkage (volledige koppeling): De afstand tussen twee clusters wordt bepaald 
+    door de grootste afstand tussen een punt in het ene cluster en een punt in het andere cluster. 
+    Deze methode neigt ertoe compacte, bolvormige clusters te vormen.
+    
+    Average Linkage (gemiddelde koppeling): De afstand tussen twee clusters wordt bepaald door het gemiddelde van alle 
+    afstanden tussen punten in het ene cluster en punten in het andere cluster. Deze methode probeert clusters 
+    van vergelijkbare grootte en vorm te vormen.
+    
+    Ward Linkage (Ward's methode): Deze methode minimaliseert de variantie binnen de clusters bij het samenvoegen 
+    van clusters. Het combineert clusters die de kleinste toename in totale variantie veroorzaken. Deze methode probeert 
+    clusters van vergelijkbare grootte en vorm te vormen en wordt vaak gebruikt in de praktijk.
+"""
