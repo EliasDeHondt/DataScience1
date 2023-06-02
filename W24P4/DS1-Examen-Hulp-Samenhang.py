@@ -107,9 +107,10 @@ def kwadraatVanCorrelatiecoefficient(df: pd.DataFrame) -> float: # Verklaarde va
     kwadraatVanCorrelatiecoefficient = r2_score(y, y_hat)  # kan je altijd gebruiken
     return float(kwadraatVanCorrelatiecoefficient)
 
-#=====================================================================================================#
-#====================================== Niet-lineaire regressie ======================================#
-#=====================================================================================================#
+# ============================================================================= #
+# ========================== Niet-lineaire regressie ========================== #
+# ==============================================================================#
+
 
 def kwadratisch(df: pd.DataFrame) -> float:
     from sklearn.pipeline import make_pipeline

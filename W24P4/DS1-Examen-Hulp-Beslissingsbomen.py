@@ -8,3 +8,6 @@ import numpy as np
  * @see https://eliasdh.com
  * @version 1.0v
 """
+
+# Index:
+
