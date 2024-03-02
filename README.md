@@ -1,4 +1,22 @@
-# DataScience1
-Project [Data Science 1] First year exercises of training applied computer science at the KdG.
+![logo](https://eliasdh.com/assets/media/images/logo-github.png)
+# 💙🤍README🤍💙
 
-![photo-1460925895917-afdab827c52f](https://user-images.githubusercontent.com/25233962/234614825-bec94b78-ae2e-424f-aa83-71710b35e16c.jpg)
+## 📘Table of Contents
+
+1. [📘Table of Contents](#📘table-of-contents)
+2. [🖖Introduction](#🖖introduction)
+3. [🔗Links](#🔗links)
+
+---
+
+## 🖖Introduction
+
+I kindly request your thorough examination and absorption of the comprehensive documentation incorporated within the confines of this repository. Your diligent review of the diverse materials provided herein will undoubtedly enhance your understanding of the intricacies and nuances associated with the contents therein.
+
+Please also see following documents:
+- [LICENSE](LICENSE.md)
+- [SECURITY](SECURITY.md)
+
+## 🔗Links
+- 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
+- 📫 How to reach us eliasdehondt@outlook.com.
